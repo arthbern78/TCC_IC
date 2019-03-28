@@ -1,0 +1,240 @@
+<?xml version='1.0' encoding='ISO-8859-1'?>
+<?xml-stylesheet type='text/xsl' href='image_metadata_stylesheet.xsl'?>
+<dataset>
+<name>imglab dataset</name>
+<comment>Created by imglab tool.</comment>
+<images>
+  <image file='faca_rebites/03_REBITES/106.JPG'>
+    <box top='234' left='463' width='27' height='22'/>
+    <box top='262' left='496' width='29' height='22'/>
+    <box top='244' left='612' width='33' height='24'/>
+  </image>
+  <image file='faca_rebites/03_REBITES/110.JPG'>
+    <box top='244' left='125' width='22' height='19'/>
+    <box top='247' left='179' width='25' height='20'/>
+    <box top='248' left='237' width='21' height='22'/>
+  </image>
+  <image file='faca_rebites/03_REBITES/120.JPG'>
+    <box top='694' left='734' width='75' height='62'/>
+    <box top='676' left='1097' width='76' height='63'/>
+    <box top='704' left='1475' width='76' height='71'/>
+  </image>
+  <image file='faca_rebites/03_REBITES/131.JPG'>
+    <box top='201' left='202' width='21' height='16'/>
+    <box top='206' left='250' width='22' height='16'/>
+    <box top='208' left='302' width='21' height='17'/>
+  </image>
+  <image file='faca_rebites/03_REBITES/133.JPG'>
+    <box top='187' left='188' width='21' height='18'/>
+    <box top='190' left='248' width='24' height='20'/>
+    <box top='195' left='310' width='25' height='20'/>
+  </image>
+  <image file='faca_rebites/03_REBITES/Arthur03.08.2011001.jpg'>
+    <box top='273' left='293' width='22' height='19'/>
+    <box top='271' left='357' width='21' height='20'/>
+    <box top='268' left='419' width='22' height='21'/>
+  </image>
+  <image file='faca_rebites/03_REBITES/DSC07504.JPG'>
+    <box top='578' left='1710' width='43' height='49'/>
+    <box top='1038' left='1546' width='49' height='51'/>
+    <box top='1046' left='1680' width='45' height='39'/>
+  </image>
+  <image file='faca_rebites/03_REBITES/DSC07560.JPG'>
+    <box top='1048' left='402' width='63' height='59'/>
+    <box top='1046' left='570' width='63' height='67'/>
+    <box top='1046' left='736' width='71' height='61'/>
+  </image>
+  <image file='faca_rebites/03_REBITES/DSC07590.JPG'>
+    <box top='1042' left='1498' width='37' height='35'/>
+    <box top='1046' left='1654' width='39' height='39'/>
+    <box top='1032' left='1810' width='35' height='47'/>
+  </image>
+  <image file='faca_rebites/03_REBITES/DSC07645.JPG'>
+    <box top='1004' left='1136' width='59' height='59'/>
+    <box top='1016' left='1288' width='59' height='59'/>
+    <box top='1020' left='1438' width='57' height='63'/>
+  </image>
+  <image file='faca_rebites/03_REBITES/DSC07742.JPG'>
+    <box top='302' left='262' width='49' height='53'/>
+    <box top='306' left='556' width='51' height='51'/>
+    <box top='300' left='782' width='55' height='51'/>
+  </image>
+  <image file='faca_rebites/03_REBITES/DSC07745.JPG'>
+    <box top='300' left='666' width='67' height='73'/>
+    <box top='300' left='832' width='71' height='67'/>
+    <box top='308' left='1004' width='71' height='67'/>
+  </image>
+  <image file='faca_rebites/03_REBITES/DSC07802.JPG'>
+    <box top='856' left='252' width='45' height='53'/>
+    <box top='880' left='446' width='47' height='51'/>
+    <box top='896' left='646' width='45' height='53'/>
+  </image>
+  <image file='faca_rebites/03_REBITES/DSC07808.JPG'>
+    <box top='958' left='1124' width='59' height='65'/>
+    <box top='966' left='1286' width='65' height='57'/>
+    <box top='970' left='1440' width='57' height='53'/>
+  </image>
+  <image file='faca_rebites/03_REBITES/DSC07815.JPG'>
+    <box top='1098' left='532' width='61' height='61'/>
+    <box top='1102' left='682' width='69' height='59'/>
+    <box top='1104' left='842' width='61' height='59'/>
+  </image>
+  <image file='faca_rebites/03_REBITES/DSC07835.JPG'>
+    <box top='1076' left='526' width='57' height='59'/>
+    <box top='1084' left='658' width='65' height='63'/>
+    <box top='1090' left='804' width='59' height='67'/>
+  </image>
+  <image file='faca_rebites/03_REBITES/DSC07851.JPG'>
+    <box top='1100' left='94' width='55' height='51'/>
+    <box top='1112' left='278' width='75' height='59'/>
+    <box top='1132' left='480' width='59' height='47'/>
+  </image>
+  <image file='faca_rebites/03_REBITES/DSC07852.JPG'>
+    <box top='1140' left='412' width='57' height='53'/>
+    <box top='1170' left='652' width='55' height='57'/>
+    <box top='1178' left='896' width='67' height='57'/>
+  </image>
+  <image file='faca_rebites/03_REBITES/DSC07901.JPG'>
+    <box top='980' left='572' width='57' height='59'/>
+    <box top='992' left='730' width='73' height='57'/>
+    <box top='1002' left='900' width='67' height='59'/>
+  </image>
+  <image file='faca_rebites/03_REBITES/DSC07908.JPG'>
+    <box top='1060' left='116' width='51' height='45'/>
+    <box top='1072' left='282' width='49' height='55'/>
+    <box top='1072' left='448' width='63' height='53'/>
+  </image>
+  <image file='faca_rebites/03_REBITES/DSC07913.JPG'>
+    <box top='984' left='446' width='63' height='59'/>
+    <box top='984' left='594' width='79' height='63'/>
+    <box top='988' left='752' width='81' height='63'/>
+  </image>
+  <image file='faca_rebites/03_REBITES/DSC07941.JPG'>
+    <box top='1068' left='162' width='43' height='47'/>
+    <box top='1084' left='318' width='45' height='51'/>
+    <box top='1086' left='492' width='45' height='49'/>
+  </image>
+  <image file='faca_rebites/03_REBITES/DSC08016.JPG'>
+    <box top='944' left='1064' width='59' height='67'/>
+    <box top='948' left='1220' width='69' height='71'/>
+    <box top='944' left='1376' width='75' height='81'/>
+  </image>
+  <image file='faca_rebites/03_REBITES/DSC08018.JPG'>
+    <box top='872' left='1058' width='69' height='59'/>
+    <box top='870' left='1226' width='73' height='65'/>
+    <box top='868' left='1400' width='67' height='73'/>
+  </image>
+  <image file='faca_rebites/03_REBITES/DSC08037.JPG'>
+    <box top='990' left='1178' width='59' height='65'/>
+    <box top='1000' left='1350' width='65' height='71'/>
+    <box top='1002' left='1514' width='67' height='83'/>
+  </image>
+  <image file='faca_rebites/03_REBITES/DSC08162.JPG'>
+    <box top='972' left='602' width='61' height='67'/>
+    <box top='984' left='766' width='65' height='61'/>
+    <box top='990' left='936' width='71' height='65'/>
+  </image>
+  <image file='faca_rebites/03_REBITES/DSC08214.JPG'>
+    <box top='958' left='1080' width='71' height='71'/>
+    <box top='964' left='1242' width='63' height='67'/>
+    <box top='972' left='1406' width='67' height='65'/>
+  </image>
+  <image file='faca_rebites/03_REBITES/DSC08247.JPG'>
+    <box top='832' left='1074' width='67' height='67'/>
+    <box top='832' left='1242' width='75' height='63'/>
+    <box top='826' left='1418' width='69' height='71'/>
+  </image>
+  <image file='faca_rebites/03_REBITES/DSC08250.JPG'>
+    <box top='850' left='1076' width='69' height='83'/>
+    <box top='848' left='1256' width='83' height='83'/>
+    <box top='858' left='1440' width='87' height='75'/>
+  </image>
+  <image file='faca_rebites/03_REBITES/DSC08292.JPG'>
+    <box top='848' left='1096' width='55' height='63'/>
+    <box top='854' left='1254' width='61' height='61'/>
+    <box top='860' left='1410' width='67' height='61'/>
+  </image>
+  <image file='faca_rebites/03_REBITES/DSC08295.JPG'>
+    <box top='1008' left='66' width='53' height='53'/>
+    <box top='1032' left='290' width='53' height='55'/>
+    <box top='1036' left='520' width='69' height='63'/>
+  </image>
+  <image file='faca_rebites/03_REBITES/DSC08530.JPG'>
+    <box top='1134' left='1452' width='63' height='65'/>
+    <box top='1144' left='1650' width='55' height='57'/>
+    <box top='1128' left='1832' width='63' height='69'/>
+  </image>
+  <image file='faca_rebites/03_REBITES/DSC08887.JPG'>
+    <box top='918' left='426' width='53' height='53'/>
+    <box top='916' left='574' width='71' height='61'/>
+    <box top='922' left='724' width='63' height='57'/>
+  </image>
+  <image file='faca_rebites/03_REBITES/DSC08899.JPG'>
+    <box top='738' left='410' width='81' height='81'/>
+    <box top='756' left='750' width='81' height='83'/>
+    <box top='770' left='1068' width='87' height='73'/>
+  </image>
+  <image file='faca_rebites/03_REBITES/DSC08905.JPG'>
+    <box top='944' left='458' width='65' height='57'/>
+    <box top='942' left='616' width='77' height='69'/>
+    <box top='948' left='790' width='71' height='67'/>
+  </image>
+  <image file='faca_rebites/03_REBITES/DSC08945.JPG'>
+    <box top='406' left='1104' width='65' height='61'/>
+    <box top='402' left='1242' width='63' height='53'/>
+    <box top='700' left='1292' width='63' height='67'/>
+    <box top='698' left='1464' width='71' height='67'/>
+    <box top='700' left='1632' width='71' height='79'/>
+  </image>
+  <image file='faca_rebites/03_REBITES/DSC08985.JPG'>
+    <box top='782' left='1206' width='55' height='61'/>
+    <box top='794' left='1420' width='53' height='67'/>
+    <box top='794' left='1608' width='63' height='77'/>
+  </image>
+  <image file='faca_rebites/03_REBITES/DSC09371.JPG'>
+    <box top='996' left='1012' width='51' height='63'/>
+    <box top='1002' left='1166' width='73' height='65'/>
+    <box top='1012' left='1328' width='81' height='61'/>
+  </image>
+  <image file='faca_rebites/03_REBITES/DSC09372.JPG'>
+    <box top='976' left='530' width='61' height='55'/>
+    <box top='964' left='694' width='65' height='65'/>
+    <box top='956' left='860' width='71' height='69'/>
+  </image>
+  <image file='faca_rebites/03_REBITES/DSC09912.JPG'>
+    <box top='1544' left='2364' width='145' height='141'/>
+    <box top='1524' left='2740' width='173' height='153'/>
+    <box top='1500' left='3124' width='213' height='149'/>
+  </image>
+  <image file='faca_rebites/03_REBITES/DSCF4389.JPG'>
+    <box top='1352' left='2564' width='109' height='109'/>
+    <box top='1372' left='3044' width='93' height='101'/>
+    <box top='1432' left='3516' width='109' height='97'/>
+  </image>
+  <image file='faca_rebites/03_REBITES/DSCF4544.JPG'>
+    <box top='1444' left='2088' width='85' height='65'/>
+    <box top='1436' left='2260' width='89' height='69'/>
+    <box top='1440' left='2440' width='93' height='77'/>
+  </image>
+  <image file='faca_rebites/03_REBITES/DSCF4565.JPG'>
+    <box top='1376' left='1988' width='129' height='125'/>
+    <box top='1384' left='2556' width='125' height='133'/>
+    <box top='1364' left='3144' width='133' height='121'/>
+  </image>
+  <image file='faca_rebites/03_REBITES/DSC_0036.JPG'>
+    <box top='1356' left='1272' width='81' height='97'/>
+    <box top='1368' left='1484' width='89' height='77'/>
+    <box top='1372' left='1708' width='101' height='101'/>
+  </image>
+  <image file='faca_rebites/03_REBITES/DSC_0037.JPG'>
+    <box top='1196' left='2236' width='129' height='97'/>
+    <box top='1156' left='2516' width='109' height='117'/>
+    <box top='1156' left='2792' width='133' height='101'/>
+  </image>
+  <image file='faca_rebites/03_REBITES/DSC_0046.JPG'>
+    <box top='1324' left='2088' width='61' height='57'/>
+    <box top='1316' left='2264' width='85' height='81'/>
+    <box top='1324' left='2440' width='73' height='81'/>
+  </image>
+</images>
+</dataset>

@@ -1,0 +1,64 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="D:\FATEC\CURSOS UDEMY\RECONHECIMENTO FACIAL\dlib-19.15\dlib-19.15\dlib\base64\base64_kernel_1.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\FATEC\CURSOS UDEMY\RECONHECIMENTO FACIAL\dlib-19.15\dlib-19.15\dlib\bigint\bigint_kernel_1.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\FATEC\CURSOS UDEMY\RECONHECIMENTO FACIAL\dlib-19.15\dlib-19.15\dlib\bigint\bigint_kernel_2.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\FATEC\CURSOS UDEMY\RECONHECIMENTO FACIAL\dlib-19.15\dlib-19.15\dlib\bit_stream\bit_stream_kernel_1.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\FATEC\CURSOS UDEMY\RECONHECIMENTO FACIAL\dlib-19.15\dlib-19.15\dlib\entropy_decoder\entropy_decoder_kernel_1.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\FATEC\CURSOS UDEMY\RECONHECIMENTO FACIAL\dlib-19.15\dlib-19.15\dlib\entropy_decoder\entropy_decoder_kernel_2.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\FATEC\CURSOS UDEMY\RECONHECIMENTO FACIAL\dlib-19.15\dlib-19.15\dlib\entropy_encoder\entropy_encoder_kernel_1.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\FATEC\CURSOS UDEMY\RECONHECIMENTO FACIAL\dlib-19.15\dlib-19.15\dlib\entropy_encoder\entropy_encoder_kernel_2.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\FATEC\CURSOS UDEMY\RECONHECIMENTO FACIAL\dlib-19.15\dlib-19.15\dlib\md5\md5_kernel_1.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\FATEC\CURSOS UDEMY\RECONHECIMENTO FACIAL\dlib-19.15\dlib-19.15\dlib\tokenizer\tokenizer_kernel_1.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\FATEC\CURSOS UDEMY\RECONHECIMENTO FACIAL\dlib-19.15\dlib-19.15\dlib\unicode\unicode.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\FATEC\CURSOS UDEMY\RECONHECIMENTO FACIAL\dlib-19.15\dlib-19.15\dlib\data_io\image_dataset_metadata.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\FATEC\CURSOS UDEMY\RECONHECIMENTO FACIAL\dlib-19.15\dlib-19.15\dlib\data_io\mnist.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\FATEC\CURSOS UDEMY\RECONHECIMENTO FACIAL\dlib-19.15\dlib-19.15\dlib\global_optimization\global_function_search.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\FATEC\CURSOS UDEMY\RECONHECIMENTO FACIAL\dlib-19.15\dlib-19.15\dlib\filtering\kalman_filter.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\FATEC\CURSOS UDEMY\RECONHECIMENTO FACIAL\dlib-19.15\dlib-19.15\dlib\test_for_odr_violations.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\FATEC\CURSOS UDEMY\RECONHECIMENTO FACIAL\dlib-19.15\dlib-19.15\dlib\svm\auto.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="D:\FATEC\CURSOS UDEMY\RECONHECIMENTO FACIAL\dlib-19.15\dlib-19.15\dlib\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{197D3B2F-E5D6-356B-86C4-93A3797ECD34}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

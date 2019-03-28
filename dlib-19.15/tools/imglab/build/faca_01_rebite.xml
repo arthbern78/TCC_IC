@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='ISO-8859-1'?>
+<?xml-stylesheet type='text/xsl' href='image_metadata_stylesheet.xsl'?>
+<dataset>
+<name>imglab dataset</name>
+<comment>Created by imglab tool.</comment>
+<images>
+  <image file='faca_rebites/01_REBITE/108.JPG'>
+    <box top='226' left='462' width='258' height='62'>
+      <part name='1' x='464' y='254'/>
+      <part name='2' x='592' y='232'/>
+      <part name='3' x='711' y='246'/>
+      <part name='4' x='592' y='275'/>
+    </box>
+  </image>
+  <image file='faca_rebites/01_REBITE/DSC07504.JPG'>
+    <box top='515' left='1563' width='348' height='150'>
+      <part name='1' x='1580' y='578'/>
+      <part name='2' x='1736' y='642'/>
+      <part name='3' x='1893' y='606'/>
+      <part name='4' x='1737' y='573'/>
+    </box>
+  </image>
+  <image file='faca_rebites/01_REBITE/DSC08170.JPG'>
+    <box top='614' left='52' width='796' height='310'>
+      <part name='1' x='800' y='779'/>
+      <part name='2' x='446' y='883'/>
+      <part name='3' x='69' y='764'/>
+      <part name='4' x='452' y='711'/>
+    </box>
+  </image>
+  <image file='faca_rebites/01_REBITE/DSCN1093.JPG'>
+    <box top='317' left='49' width='325' height='97'>
+      <part name='1' x='354' y='368'/>
+      <part name='2' x='215' y='342'/>
+      <part name='3' x='61' y='360'/>
+      <part name='4' x='220' y='388'/>
+    </box>
+  </image>
+  <image file='faca_rebites/01_REBITE/TODAY004.jpg'>
+    <box top='232' left='460' width='311' height='133'>
+      <part name='1' x='472' y='299'/>
+      <part name='2' x='619' y='330'/>
+      <part name='3' x='759' y='288'/>
+      <part name='4' x='616' y='269'/>
+    </box>
+  </image>
+</images>
+</dataset>

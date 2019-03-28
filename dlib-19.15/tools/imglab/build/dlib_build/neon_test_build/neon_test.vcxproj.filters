@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="D:\FATEC\CURSOS UDEMY\RECONHECIMENTO FACIAL\dlib-19.15\dlib-19.15\dlib\cmake_utils\test_for_neon\neon_test.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="D:\FATEC\CURSOS UDEMY\RECONHECIMENTO FACIAL\dlib-19.15\dlib-19.15\dlib\cmake_utils\test_for_neon\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{E0DD279B-B777-3765-9CDB-15EE5A1356E1}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

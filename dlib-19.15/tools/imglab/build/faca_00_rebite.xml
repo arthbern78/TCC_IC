@@ -1,0 +1,688 @@
+<?xml version='1.0' encoding='ISO-8859-1'?>
+<?xml-stylesheet type='text/xsl' href='image_metadata_stylesheet.xsl'?>
+<dataset>
+<name>imglab dataset</name>
+<comment>Created by imglab tool.</comment>
+<images>
+  <image file='faca_rebites/SEM_REBITES/02.JPG'>
+    <box top='249' left='138' width='220' height='68'>
+      <part name='1' x='341' y='282'/>
+      <part name='2' x='253' y='305'/>
+      <part name='3' x='149' y='283'/>
+      <part name='4' x='249' y='260'/>
+    </box>
+  </image>
+  <image file='faca_rebites/SEM_REBITES/112.JPG'>
+    <box top='221' left='56' width='279' height='75'>
+      <part name='1' x='316' y='252'/>
+      <part name='2' x='194' y='276'/>
+      <part name='3' x='64' y='259'/>
+      <part name='4' x='194' y='236'/>
+    </box>
+  </image>
+  <image file='faca_rebites/SEM_REBITES/113.JPG'>
+    <box top='241' left='68' width='309' height='98'>
+      <part name='1' x='365' y='283'/>
+      <part name='2' x='223' y='327'/>
+      <part name='3' x='76' y='284'/>
+      <part name='4' x='221' y='247'/>
+    </box>
+  </image>
+  <image file='faca_rebites/SEM_REBITES/116.JPG'>
+    <box top='1166' left='507' width='1405' height='499'>
+      <part name='1' x='1883' y='1412'/>
+      <part name='2' x='1220' y='1610'/>
+      <part name='3' x='521' y='1424'/>
+      <part name='4' x='1211' y='1292'/>
+    </box>
+  </image>
+  <image file='faca_rebites/SEM_REBITES/120.JPG'>
+    <box top='1124' left='216' width='1336' height='527'>
+      <part name='1' x='1510' y='1411'/>
+      <part name='2' x='884' y='1179'/>
+      <part name='3' x='253' y='1255'/>
+      <part name='4' x='848' y='1458'/>
+    </box>
+  </image>
+  <image file='faca_rebites/SEM_REBITES/171.JPG'>
+    <box top='156' left='166' width='213' height='71'>
+      <part name='1' x='368' y='185'/>
+      <part name='2' x='275' y='163'/>
+      <part name='3' x='172' y='189'/>
+      <part name='4' x='274' y='202'/>
+    </box>
+    <box top='258' left='199' width='269' height='98'>
+      <part name='1' x='441' y='306'/>
+      <part name='2' x='330' y='268'/>
+      <part name='3' x='204' y='297'/>
+      <part name='4' x='330' y='322'/>
+    </box>
+  </image>
+  <image file='faca_rebites/SEM_REBITES/Arthur03.08.2011004.jpg'>
+    <box top='253' left='172' width='291' height='67'>
+      <part name='1' x='439' y='283'/>
+      <part name='2' x='325' y='269'/>
+      <part name='3' x='178' y='282'/>
+      <part name='4' x='323' y='298'/>
+    </box>
+  </image>
+  <image file='faca_rebites/SEM_REBITES/Arthur03.08.2011007.jpg'>
+    <box top='300' left='483' width='266' height='71'>
+      <part name='1' x='493' y='325'/>
+      <part name='2' x='614' y='311'/>
+      <part name='3' x='732' y='335'/>
+      <part name='4' x='612' y='348'/>
+    </box>
+  </image>
+  <image file='faca_rebites/SEM_REBITES/Arthur03.08.2011008.jpg'>
+    <box top='293' left='410' width='245' height='62'>
+      <part name='1' x='417' y='315'/>
+      <part name='2' x='542' y='300'/>
+      <part name='3' x='647' y='320'/>
+      <part name='4' x='542' y='334'/>
+    </box>
+  </image>
+  <image file='faca_rebites/SEM_REBITES/Arthur03.08.2011009.jpg'>
+    <box top='254' left='406' width='321' height='66'>
+      <part name='1' x='416' y='281'/>
+      <part name='2' x='572' y='263'/>
+      <part name='3' x='714' y='285'/>
+      <part name='4' x='571' y='305'/>
+    </box>
+  </image>
+  <image file='faca_rebites/SEM_REBITES/Arthur03.08.2011011.jpg'>
+    <box top='233' left='181' width='283' height='77'>
+      <part name='1' x='443' y='265'/>
+      <part name='2' x='319' y='245'/>
+      <part name='3' x='185' y='273'/>
+      <part name='4' x='318' y='291'/>
+    </box>
+  </image>
+  <image file='faca_rebites/SEM_REBITES/Arthur03.08.2011013.jpg'>
+    <box top='204' left='473' width='310' height='103'>
+      <part name='1' x='496' y='253'/>
+      <part name='2' x='637' y='218'/>
+      <part name='3' x='774' y='252'/>
+      <part name='4' x='632' y='271'/>
+    </box>
+  </image>
+  <image file='faca_rebites/SEM_REBITES/Arthur03.08.2011016.jpg'>
+    <box top='234' left='515' width='254' height='103'>
+      <part name='1' x='532' y='293'/>
+      <part name='2' x='634' y='255'/>
+      <part name='3' x='755' y='278'/>
+      <part name='4' x='636' y='312'/>
+    </box>
+  </image>
+  <image file='faca_rebites/SEM_REBITES/DSC07346.JPG'>
+    <box top='1003' left='656' width='693' height='195'>
+      <part name='1' x='1322' y='1107'/>
+      <part name='2' x='1016' y='1168'/>
+      <part name='3' x='670' y='1102'/>
+      <part name='4' x='1011' y='1043'/>
+    </box>
+  </image>
+  <image file='faca_rebites/SEM_REBITES/DSC07348.JPG'>
+    <box top='1056' left='316' width='857' height='170'>
+      <part name='1' x='1127' y='1157'/>
+      <part name='2' x='744' y='1181'/>
+      <part name='3' x='328' y='1115'/>
+      <part name='4' x='747' y='1102'/>
+    </box>
+  </image>
+  <image file='faca_rebites/SEM_REBITES/DSC07349.JPG'>
+    <box top='995' left='327' width='770' height='141'>
+      <part name='1' x='1069' y='1065'/>
+      <part name='2' x='716' y='1118'/>
+      <part name='3' x='335' y='1085'/>
+      <part name='4' x='720' y='1031'/>
+    </box>
+  </image>
+  <image file='faca_rebites/SEM_REBITES/DSC07374.JPG'>
+    <box top='791' left='1060' width='315' height='92'>
+      <part name='1' x='1362' y='841'/>
+      <part name='2' x='1224' y='867'/>
+      <part name='3' x='1070' y='833'/>
+      <part name='4' x='1224' y='816'/>
+    </box>
+  </image>
+  <image file='faca_rebites/SEM_REBITES/DSC07381.JPG'>
+    <box top='1135' left='356' width='623' height='176'>
+      <part name='1' x='951' y='1239'/>
+      <part name='2' x='660' y='1299'/>
+      <part name='3' x='367' y='1235'/>
+      <part name='4' x='663' y='1171'/>
+    </box>
+  </image>
+  <image file='faca_rebites/SEM_REBITES/DSC07518.JPG'>
+    <box top='628' left='676' width='836' height='242'>
+      <part name='1' x='1468' y='764'/>
+      <part name='2' x='1136' y='840'/>
+      <part name='3' x='691' y='669'/>
+      <part name='4' x='1123' y='656'/>
+    </box>
+  </image>
+  <image file='faca_rebites/SEM_REBITES/DSC07520.JPG'>
+    <box top='828' left='1073' width='758' height='217'>
+      <part name='1' x='1138' y='949'/>
+      <part name='2' x='1443' y='1029'/>
+      <part name='3' x='1797' y='888'/>
+      <part name='4' x='1433' y='860'/>
+    </box>
+  </image>
+  <image file='faca_rebites/SEM_REBITES/DSC07648.JPG'>
+    <box top='1019' left='321' width='749' height='190'>
+      <part name='1' x='1047' y='1123'/>
+      <part name='2' x='707' y='1188'/>
+      <part name='3' x='355' y='1122'/>
+      <part name='4' x='714' y='1057'/>
+    </box>
+  </image>
+  <image file='faca_rebites/SEM_REBITES/DSC07653.JPG'>
+    <box top='989' left='322' width='706' height='165'>
+      <part name='1' x='1004' y='1074'/>
+      <part name='2' x='685' y='1115'/>
+      <part name='3' x='339' y='1062'/>
+      <part name='4' x='683' y='1018'/>
+    </box>
+  </image>
+  <image file='faca_rebites/SEM_REBITES/DSC07655.JPG'>
+    <box top='948' left='222' width='784' height='223'>
+      <part name='1' x='973' y='1080'/>
+      <part name='2' x='614' y='1129'/>
+      <part name='3' x='234' y='1012'/>
+      <part name='4' x='625' y='965'/>
+    </box>
+  </image>
+  <image file='faca_rebites/SEM_REBITES/DSC07713.JPG'>
+    <box top='605' left='654' width='412' height='105'>
+      <part name='1' x='1043' y='654'/>
+      <part name='2' x='853' y='692'/>
+      <part name='3' x='672' y='664'/>
+      <part name='4' x='850' y='625'/>
+    </box>
+  </image>
+  <image file='faca_rebites/SEM_REBITES/DSC07727.JPG'>
+    <box top='280' left='1256' width='758' height='227'>
+      <part name='1' x='1286' y='369'/>
+      <part name='2' x='1638' y='304'/>
+      <part name='3' x='1977' y='403'/>
+      <part name='4' x='1636' y='446'/>
+    </box>
+    <box top='517' left='963' width='623' height='211'>
+      <part name='1' x='978' y='619'/>
+      <part name='2' x='1280' y='544'/>
+      <part name='3' x='1545' y='632'/>
+      <part name='4' x='1276' y='699'/>
+    </box>
+    <box top='840' left='899' width='664' height='119'>
+      <part name='1' x='920' y='896'/>
+      <part name='2' x='1253' y='855'/>
+      <part name='3' x='1529' y='900'/>
+      <part name='4' x='1253' y='932'/>
+    </box>
+  </image>
+  <image file='faca_rebites/SEM_REBITES/DSC07729.JPG'>
+    <box top='337' left='222' width='1067' height='369'>
+      <part name='1' x='1207' y='494'/>
+      <part name='2' x='792' y='360'/>
+      <part name='3' x='238' y='550'/>
+      <part name='4' x='797' y='584'/>
+    </box>
+  </image>
+  <image file='faca_rebites/SEM_REBITES/DSC07733.JPG'>
+    <box top='350' left='1014' width='860' height='180'>
+      <part name='1' x='1041' y='432'/>
+      <part name='2' x='1459' y='370'/>
+      <part name='3' x='1843' y='433'/>
+      <part name='4' x='1464' y='483'/>
+    </box>
+  </image>
+  <image file='faca_rebites/SEM_REBITES/DSC07744.JPG'>
+    <box top='259' left='261' width='853' height='191'>
+      <part name='1' x='1092' y='362'/>
+      <part name='2' x='680' y='287'/>
+      <part name='3' x='269' y='345'/>
+      <part name='4' x='682' y='405'/>
+    </box>
+  </image>
+  <image file='faca_rebites/SEM_REBITES/DSC07747.JPG'>
+    <box top='267' left='340' width='772' height='163'>
+      <part name='1' x='1063' y='343'/>
+      <part name='2' x='704' y='283'/>
+      <part name='3' x='359' y='353'/>
+      <part name='4' x='702' y='395'/>
+    </box>
+  </image>
+  <image file='faca_rebites/SEM_REBITES/DSC07750.JPG'>
+    <box top='280' left='398' width='791' height='164'>
+      <part name='1' x='1172' y='350'/>
+      <part name='2' x='774' y='307'/>
+      <part name='3' x='415' y='375'/>
+      <part name='4' x='775' y='403'/>
+    </box>
+  </image>
+  <image file='faca_rebites/SEM_REBITES/DSC07758.JPG'>
+    <box top='305' left='1087' width='768' height='248'>
+      <part name='1' x='1121' y='416'/>
+      <part name='2' x='1451' y='322'/>
+      <part name='3' x='1835' y='436'/>
+      <part name='4' x='1456' y='505'/>
+    </box>
+  </image>
+  <image file='faca_rebites/SEM_REBITES/DSC07760.JPG'>
+    <box top='196' left='1251' width='751' height='267'>
+      <part name='1' x='1282' y='325'/>
+      <part name='2' x='1630' y='219'/>
+      <part name='3' x='1982' y='349'/>
+      <part name='4' x='1631' y='414'/>
+    </box>
+  </image>
+  <image file='faca_rebites/SEM_REBITES/DSC07802.JPG'>
+    <box top='1005' left='74' width='622' height='263'>
+      <part name='1' x='661' y='1145'/>
+      <part name='2' x='403' y='1248'/>
+      <part name='3' x='99' y='1139'/>
+      <part name='4' x='412' y='1117'/>
+    </box>
+  </image>
+  <image file='faca_rebites/SEM_REBITES/DSC07810.JPG'>
+    <box top='1093' left='644' width='647' height='152'>
+      <part name='1' x='1258' y='1177'/>
+      <part name='2' x='963' y='1215'/>
+      <part name='3' x='654' y='1165'/>
+      <part name='4' x='962' y='1127'/>
+    </box>
+  </image>
+  <image file='faca_rebites/SEM_REBITES/DSC07822.JPG'>
+    <box top='860' left='41' width='831' height='322'>
+      <part name='1' x='822' y='1031'/>
+      <part name='2' x='466' y='1130'/>
+      <part name='3' x='53' y='1054'/>
+      <part name='4' x='468' y='963'/>
+    </box>
+  </image>
+  <image file='faca_rebites/SEM_REBITES/DSC07913.JPG'>
+    <box top='609' left='468' width='639' height='184'>
+      <part name='1' x='1076' y='716'/>
+      <part name='2' x='767' y='750'/>
+      <part name='3' x='493' y='685'/>
+      <part name='4' x='773' y='647'/>
+    </box>
+  </image>
+  <image file='faca_rebites/SEM_REBITES/DSC07927.JPG'>
+    <box top='1078' left='790' width='823' height='152'>
+      <part name='1' x='824' y='1147'/>
+      <part name='2' x='1192' y='1197'/>
+      <part name='3' x='1575' y='1154'/>
+      <part name='4' x='1187' y='1105'/>
+    </box>
+  </image>
+  <image file='faca_rebites/SEM_REBITES/DSC07954.JPG'>
+    <box top='799' left='55' width='734' height='276'>
+      <part name='1' x='775' y='951'/>
+      <part name='2' x='422' y='1023'/>
+      <part name='3' x='76' y='950'/>
+      <part name='4' x='425' y='925'/>
+    </box>
+  </image>
+  <image file='faca_rebites/SEM_REBITES/DSC07956.JPG'>
+    <box top='896' left='181' width='739' height='173'>
+      <part name='1' x='891' y='981'/>
+      <part name='2' x='542' y='1047'/>
+      <part name='3' x='206' y='982'/>
+      <part name='4' x='542' y='924'/>
+    </box>
+  </image>
+  <image file='faca_rebites/SEM_REBITES/DSC08009.JPG'>
+    <box top='395' left='1119' width='368' height='122'>
+      <part name='1' x='1135' y='454'/>
+      <part name='2' x='1306' y='423'/>
+      <part name='3' x='1471' y='455'/>
+      <part name='4' x='1302' y='492'/>
+    </box>
+  </image>
+  <image file='faca_rebites/SEM_REBITES/DSC08019.JPG'>
+    <box top='883' left='413' width='664' height='162'>
+      <part name='1' x='1038' y='967'/>
+      <part name='2' x='741' y='1023'/>
+      <part name='3' x='437' y='968'/>
+      <part name='4' x='745' y='920'/>
+    </box>
+  </image>
+  <image file='faca_rebites/SEM_REBITES/DSC08166.JPG'>
+    <box top='720' left='189' width='745' height='292'>
+      <part name='1' x='913' y='863'/>
+      <part name='2' x='526' y='921'/>
+      <part name='3' x='202' y='843'/>
+      <part name='4' x='522' y='789'/>
+    </box>
+  </image>
+  <image file='faca_rebites/SEM_REBITES/DSC08181.JPG'>
+    <box top='747' left='1104' width='775' height='341'>
+      <part name='1' x='1240' y='926'/>
+      <part name='2' x='1524' y='1056'/>
+      <part name='3' x='1851' y='966'/>
+      <part name='4' x='1529' y='927'/>
+    </box>
+  </image>
+  <image file='faca_rebites/SEM_REBITES/DSC08215.JPG'>
+    <box top='892' left='223' width='698' height='155'>
+      <part name='1' x='871' y='976'/>
+      <part name='2' x='579' y='1011'/>
+      <part name='3' x='244' y='966'/>
+      <part name='4' x='578' y='939'/>
+    </box>
+  </image>
+  <image file='faca_rebites/SEM_REBITES/DSC08236.JPG'>
+    <box top='717' left='1335' width='619' height='253'>
+      <part name='1' x='1367' y='839'/>
+      <part name='2' x='1641' y='940'/>
+      <part name='3' x='1930' y='857'/>
+      <part name='4' x='1640' y='804'/>
+    </box>
+  </image>
+  <image file='faca_rebites/SEM_REBITES/DSC08255.JPG'>
+    <box top='847' left='1048' width='711' height='268'>
+      <part name='1' x='1088' y='999'/>
+      <part name='2' x='1420' y='1059'/>
+      <part name='3' x='1725' y='956'/>
+      <part name='4' x='1411' y='882'/>
+    </box>
+  </image>
+  <image file='faca_rebites/SEM_REBITES/DSC08404.JPG'>
+    <box top='995' left='1041' width='793' height='172'>
+      <part name='1' x='1062' y='1069'/>
+      <part name='2' x='1443' y='1142'/>
+      <part name='3' x='1820' y='1081'/>
+      <part name='4' x='1432' y='1012'/>
+    </box>
+  </image>
+  <image file='faca_rebites/SEM_REBITES/DSC08468.JPG'>
+    <box top='943' left='56' width='811' height='269'>
+      <part name='1' x='799' y='1077'/>
+      <part name='2' x='469' y='1179'/>
+      <part name='3' x='74' y='1088'/>
+      <part name='4' x='476' y='1027'/>
+    </box>
+  </image>
+  <image file='faca_rebites/SEM_REBITES/DSC08538.JPG'>
+    <box top='800' left='76' width='782' height='292'>
+      <part name='1' x='797' y='964'/>
+      <part name='2' x='477' y='1057'/>
+      <part name='3' x='94' y='952'/>
+      <part name='4' x='492' y='910'/>
+    </box>
+  </image>
+  <image file='faca_rebites/SEM_REBITES/DSC08541.JPG'>
+    <box top='788' left='151' width='748' height='279'>
+      <part name='1' x='867' y='954'/>
+      <part name='2' x='533' y='1023'/>
+      <part name='3' x='177' y='898'/>
+      <part name='4' x='545' y='856'/>
+    </box>
+  </image>
+  <image file='faca_rebites/SEM_REBITES/DSC08545.JPG'>
+    <box top='892' left='281' width='767' height='187'>
+      <part name='1' x='1009' y='999'/>
+      <part name='2' x='649' y='1044'/>
+      <part name='3' x='307' y='972'/>
+      <part name='4' x='658' y='925'/>
+    </box>
+  </image>
+  <image file='faca_rebites/SEM_REBITES/DSC08547.JPG'>
+    <box top='892' left='123' width='910' height='168'>
+      <part name='1' x='997' y='969'/>
+      <part name='2' x='562' y='1031'/>
+      <part name='3' x='137' y='976'/>
+      <part name='4' x='566' y='929'/>
+    </box>
+  </image>
+  <image file='faca_rebites/SEM_REBITES/DSC08555.JPG'>
+    <box top='807' left='292' width='741' height='176'>
+      <part name='1' x='1005' y='906'/>
+      <part name='2' x='647' y='949'/>
+      <part name='3' x='309' y='879'/>
+      <part name='4' x='649' y='834'/>
+    </box>
+  </image>
+  <image file='faca_rebites/SEM_REBITES/DSC08655.JPG'>
+    <box top='872' left='412' width='677' height='165'>
+      <part name='1' x='1054' y='959'/>
+      <part name='2' x='749' y='1014'/>
+      <part name='3' x='431' y='947'/>
+      <part name='4' x='755' y='898'/>
+    </box>
+  </image>
+  <image file='faca_rebites/SEM_REBITES/DSC08765.JPG'>
+    <box top='707' left='1291' width='671' height='267'>
+      <part name='1' x='1311' y='840'/>
+      <part name='2' x='1637' y='727'/>
+      <part name='3' x='1934' y='839'/>
+      <part name='4' x='1642' y='880'/>
+    </box>
+  </image>
+  <image file='faca_rebites/SEM_REBITES/DSC08889.JPG'>
+    <box top='823' left='19' width='623' height='263'>
+      <part name='1' x='605' y='960'/>
+      <part name='2' x='319' y='1037'/>
+      <part name='3' x='30' y='950'/>
+      <part name='4' x='329' y='899'/>
+    </box>
+  </image>
+  <image file='faca_rebites/SEM_REBITES/DSC08893.JPG'>
+    <box top='797' left='35' width='836' height='275'>
+      <part name='1' x='797' y='940'/>
+      <part name='2' x='439' y='1023'/>
+      <part name='3' x='50' y='910'/>
+      <part name='4' x='444' y='855'/>
+    </box>
+  </image>
+  <image file='faca_rebites/SEM_REBITES/DSC08895.JPG'>
+    <box top='712' left='99' width='829' height='197'>
+      <part name='1' x='905' y='809'/>
+      <part name='2' x='498' y='883'/>
+      <part name='3' x='115' y='815'/>
+      <part name='4' x='506' y='742'/>
+    </box>
+  </image>
+  <image file='faca_rebites/SEM_REBITES/DSC08901.JPG'>
+    <box top='737' left='877' width='885' height='332'>
+      <part name='1' x='928' y='904'/>
+      <part name='2' x='1315' y='1036'/>
+      <part name='3' x='1734' y='949'/>
+      <part name='4' x='1313' y='854'/>
+    </box>
+  </image>
+  <image file='faca_rebites/SEM_REBITES/DSC08902.JPG'>
+    <box top='698' left='911' width='793' height='207'>
+      <part name='1' x='930' y='784'/>
+      <part name='2' x='1322' y='872'/>
+      <part name='3' x='1673' y='819'/>
+      <part name='4' x='1319' y='737'/>
+    </box>
+  </image>
+  <image file='faca_rebites/SEM_REBITES/DSC08949.JPG'>
+    <box top='401' left='265' width='756' height='203'>
+      <part name='1' x='962' y='480'/>
+      <part name='2' x='663' y='417'/>
+      <part name='3' x='287' y='509'/>
+      <part name='4' x='667' y='559'/>
+    </box>
+  </image>
+  <image file='faca_rebites/SEM_REBITES/DSC08953.JPG'>
+    <box top='506' left='298' width='629' height='202'>
+      <part name='1' x='865' y='602'/>
+      <part name='2' x='622' y='521'/>
+      <part name='3' x='312' y='576'/>
+      <part name='4' x='627' y='647'/>
+    </box>
+  </image>
+  <image file='faca_rebites/SEM_REBITES/DSC08955.JPG'>
+    <box top='487' left='959' width='769' height='127'>
+      <part name='1' x='976' y='555'/>
+      <part name='2' x='1331' y='512'/>
+      <part name='3' x='1704' y='550'/>
+      <part name='4' x='1334' y='582'/>
+    </box>
+  </image>
+  <image file='faca_rebites/SEM_REBITES/DSC09368.JPG'>
+    <box top='846' left='1080' width='638' height='157'>
+      <part name='1' x='1090' y='942'/>
+      <part name='2' x='1413' y='881'/>
+      <part name='3' x='1698' y='907'/>
+      <part name='4' x='1416' y='963'/>
+    </box>
+  </image>
+  <image file='faca_rebites/SEM_REBITES/DSC09369.JPG'>
+    <box top='729' left='1098' width='780' height='292'>
+      <part name='1' x='1140' y='860'/>
+      <part name='2' x='1510' y='779'/>
+      <part name='3' x='1870' y='889'/>
+      <part name='4' x='1506' y='933'/>
+    </box>
+  </image>
+  <image file='faca_rebites/SEM_REBITES/DSCF4295.JPG'>
+    <box top='1095' left='2363' width='1403' height='426'>
+      <part name='1' x='2395' y='1308'/>
+      <part name='2' x='3149' y='1145'/>
+      <part name='3' x='3757' y='1312'/>
+      <part name='4' x='3123' y='1452'/>
+    </box>
+  </image>
+  <image file='faca_rebites/SEM_REBITES/DSCF4467.JPG'>
+    <box top='963' left='2523' width='1369' height='591'>
+      <part name='1' x='2687' y='1213'/>
+      <part name='2' x='3255' y='967'/>
+      <part name='3' x='3877' y='1201'/>
+      <part name='4' x='3251' y='1299'/>
+    </box>
+  </image>
+  <image file='faca_rebites/SEM_REBITES/DSCF4526.JPG'>
+    <box top='1281' left='1713' width='2074' height='328'>
+      <part name='1' x='1752' y='1422'/>
+      <part name='2' x='2661' y='1335'/>
+      <part name='3' x='3627' y='1422'/>
+      <part name='4' x='2646' y='1497'/>
+    </box>
+  </image>
+  <image file='faca_rebites/SEM_REBITES/DSCF4527.JPG'>
+    <box top='1500' left='2190' width='1621' height='610'>
+      <part name='1' x='2262' y='1770'/>
+      <part name='2' x='3027' y='1578'/>
+      <part name='3' x='3771' y='1776'/>
+      <part name='4' x='3027' y='1875'/>
+    </box>
+  </image>
+  <image file='faca_rebites/SEM_REBITES/DSCF4543.JPG'>
+    <box top='1380' left='1989' width='1000' height='400'>
+      <part name='1' x='2049' y='1554'/>
+      <part name='2' x='2502' y='1443'/>
+      <part name='3' x='2964' y='1566'/>
+      <part name='4' x='2496' y='1620'/>
+    </box>
+  </image>
+  <image file='faca_rebites/SEM_REBITES/DSCF4566.JPG'>
+    <box top='1446' left='1815' width='1564' height='382'>
+      <part name='1' x='1854' y='1644'/>
+      <part name='2' x='2649' y='1494'/>
+      <part name='3' x='3318' y='1611'/>
+      <part name='4' x='2655' y='1761'/>
+    </box>
+  </image>
+  <image file='faca_rebites/SEM_REBITES/DSC_5141.JPG'>
+    <box top='1026' left='226' width='1273' height='507'>
+      <part name='1' x='1410' y='1224'/>
+      <part name='2' x='890' y='1428'/>
+      <part name='3' x='266' y='1254'/>
+      <part name='4' x='894' y='1068'/>
+    </box>
+  </image>
+  <image file='faca_rebites/SEM_REBITES/DSC_5149.JPG'>
+    <box top='1024' left='554' width='1071' height='453'>
+      <part name='1' x='1582' y='1264'/>
+      <part name='2' x='1138' y='1104'/>
+      <part name='3' x='588' y='1140'/>
+      <part name='4' x='1130' y='1320'/>
+    </box>
+  </image>
+  <image file='faca_rebites/SEM_REBITES/IMG_1082.JPG'>
+    <box top='252' left='370' width='328' height='89'>
+      <part name='1' x='380' y='287'/>
+      <part name='2' x='527' y='269'/>
+      <part name='3' x='672' y='289'/>
+      <part name='4' x='524' y='308'/>
+    </box>
+  </image>
+  <image file='faca_rebites/SEM_REBITES/IMG_1252.JPG'>
+    <box top='244' left='221' width='176' height='68'>
+      <part name='1' x='379' y='274'/>
+      <part name='2' x='308' y='252'/>
+      <part name='3' x='227' y='274'/>
+      <part name='4' x='306' y='284'/>
+    </box>
+  </image>
+  <image file='faca_rebites/SEM_REBITES/IMG_1453.JPG'>
+    <box top='372' left='215' width='382' height='116'>
+      <part name='1' x='575' y='421'/>
+      <part name='2' x='390' y='392'/>
+      <part name='3' x='232' y='434'/>
+      <part name='4' x='392' y='464'/>
+    </box>
+  </image>
+  <image file='faca_rebites/SEM_REBITES/IMG_1576.JPG'>
+    <box top='375' left='364' width='354' height='92'>
+      <part name='1' x='376' y='428'/>
+      <part name='2' x='534' y='399'/>
+      <part name='3' x='706' y='418'/>
+      <part name='4' x='535' y='443'/>
+    </box>
+  </image>
+  <image file='faca_rebites/SEM_REBITES/IMG_1579.JPG'>
+    <box top='269' left='42' width='455' height='134'>
+      <part name='1' x='481' y='342'/>
+      <part name='2' x='251' y='371'/>
+      <part name='3' x='57' y='325'/>
+      <part name='4' x='263' y='298'/>
+    </box>
+  </image>
+  <image file='faca_rebites/SEM_REBITES/IMG_1581.JPG'>
+    <box top='312' left='449' width='332' height='119'>
+      <part name='1' x='469' y='374'/>
+      <part name='2' x='619' y='328'/>
+      <part name='3' x='768' y='365'/>
+      <part name='4' x='618' y='390'/>
+    </box>
+  </image>
+  <image file='faca_rebites/SEM_REBITES/IMG_2372.JPG'>
+    <box top='234' left='93' width='320' height='111'>
+      <part name='1' x='384' y='292'/>
+      <part name='2' x='257' y='248'/>
+      <part name='3' x='99' y='285'/>
+      <part name='4' x='252' y='308'/>
+    </box>
+    <box top='359' left='71' width='287' height='115'>
+      <part name='1' x='327' y='415'/>
+      <part name='2' x='217' y='368'/>
+      <part name='3' x='82' y='391'/>
+      <part name='4' x='212' y='417'/>
+    </box>
+  </image>
+  <image file='faca_rebites/SEM_REBITES/IMG_2380.JPG'>
+    <box top='270' left='367' width='396' height='105'>
+      <part name='1' x='405' y='311'/>
+      <part name='2' x='578' y='292'/>
+      <part name='3' x='745' y='332'/>
+      <part name='4' x='572' y='343'/>
+    </box>
+  </image>
+  <image file='faca_rebites/SEM_REBITES/TODAY009.jpg'>
+    <box top='93' left='399' width='212' height='83'>
+      <part name='1' x='409' y='139'/>
+      <part name='2' x='499' y='113'/>
+      <part name='3' x='590' y='130'/>
+      <part name='4' x='499' y='157'/>
+    </box>
+  </image>
+</images>
+</dataset>

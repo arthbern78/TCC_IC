@@ -1,0 +1,347 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project DefaultTargets="Build" ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup Label="ProjectConfigurations">
+    <ProjectConfiguration Include="Debug|Win32">
+      <Configuration>Debug</Configuration>
+      <Platform>Win32</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="Release|Win32">
+      <Configuration>Release</Configuration>
+      <Platform>Win32</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="MinSizeRel|Win32">
+      <Configuration>MinSizeRel</Configuration>
+      <Platform>Win32</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="RelWithDebInfo|Win32">
+      <Configuration>RelWithDebInfo</Configuration>
+      <Platform>Win32</Platform>
+    </ProjectConfiguration>
+  </ItemGroup>
+  <PropertyGroup Label="Globals">
+    <ProjectGuid>{78ECEC02-BC88-3ECA-9AA3-76A9CD512E8A}</ProjectGuid>
+    <WindowsTargetPlatformVersion>10.0.17134.0</WindowsTargetPlatformVersion>
+    <Keyword>Win32Proj</Keyword>
+    <Platform>Win32</Platform>
+    <ProjectName>imglab</ProjectName>
+    <VCProjectUpgraderObjectName>NoUpgrade</VCProjectUpgraderObjectName>
+  </PropertyGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
+    <ConfigurationType>Application</ConfigurationType>
+    <CharacterSet>MultiByte</CharacterSet>
+    <PlatformToolset>v141</PlatformToolset>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'" Label="Configuration">
+    <ConfigurationType>Application</ConfigurationType>
+    <CharacterSet>MultiByte</CharacterSet>
+    <PlatformToolset>v141</PlatformToolset>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='MinSizeRel|Win32'" Label="Configuration">
+    <ConfigurationType>Application</ConfigurationType>
+    <CharacterSet>MultiByte</CharacterSet>
+    <PlatformToolset>v141</PlatformToolset>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|Win32'" Label="Configuration">
+    <ConfigurationType>Application</ConfigurationType>
+    <CharacterSet>MultiByte</CharacterSet>
+    <PlatformToolset>v141</PlatformToolset>
+  </PropertyGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.props" />
+  <ImportGroup Label="ExtensionSettings">
+  </ImportGroup>
+  <ImportGroup Label="PropertySheets">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <PropertyGroup Label="UserMacros" />
+  <PropertyGroup>
+    <_ProjectFileVersion>10.0.20506.1</_ProjectFileVersion>
+    <OutDir Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">D:\FATEC\CURSOS UDEMY\RECONHECIMENTO FACIAL\dlib-19.10\tools\imglab\build\Debug\</OutDir>
+    <IntDir Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">imglab.dir\Debug\</IntDir>
+    <TargetName Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">imglab</TargetName>
+    <TargetExt Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">.exe</TargetExt>
+    <LinkIncremental Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">true</LinkIncremental>
+    <GenerateManifest Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">true</GenerateManifest>
+    <OutDir Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">D:\FATEC\CURSOS UDEMY\RECONHECIMENTO FACIAL\dlib-19.10\tools\imglab\build\Release\</OutDir>
+    <IntDir Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">imglab.dir\Release\</IntDir>
+    <TargetName Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">imglab</TargetName>
+    <TargetExt Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">.exe</TargetExt>
+    <LinkIncremental Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">false</LinkIncremental>
+    <GenerateManifest Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">true</GenerateManifest>
+    <OutDir Condition="'$(Configuration)|$(Platform)'=='MinSizeRel|Win32'">D:\FATEC\CURSOS UDEMY\RECONHECIMENTO FACIAL\dlib-19.10\tools\imglab\build\MinSizeRel\</OutDir>
+    <IntDir Condition="'$(Configuration)|$(Platform)'=='MinSizeRel|Win32'">imglab.dir\MinSizeRel\</IntDir>
+    <TargetName Condition="'$(Configuration)|$(Platform)'=='MinSizeRel|Win32'">imglab</TargetName>
+    <TargetExt Condition="'$(Configuration)|$(Platform)'=='MinSizeRel|Win32'">.exe</TargetExt>
+    <LinkIncremental Condition="'$(Configuration)|$(Platform)'=='MinSizeRel|Win32'">false</LinkIncremental>
+    <GenerateManifest Condition="'$(Configuration)|$(Platform)'=='MinSizeRel|Win32'">true</GenerateManifest>
+    <OutDir Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|Win32'">D:\FATEC\CURSOS UDEMY\RECONHECIMENTO FACIAL\dlib-19.10\tools\imglab\build\RelWithDebInfo\</OutDir>
+    <IntDir Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|Win32'">imglab.dir\RelWithDebInfo\</IntDir>
+    <TargetName Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|Win32'">imglab</TargetName>
+    <TargetExt Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|Win32'">.exe</TargetExt>
+    <LinkIncremental Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|Win32'">true</LinkIncremental>
+    <GenerateManifest Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|Win32'">true</GenerateManifest>
+  </PropertyGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
+    <ClCompile>
+      <AdditionalIncludeDirectories>D:\FATEC\CURSOS UDEMY\RECONHECIMENTO FACIAL\dlib-19.15\dlib-19.15\dlib\..;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <AdditionalOptions>%(AdditionalOptions) /bigobj</AdditionalOptions>
+      <AssemblerListingLocation>Debug/</AssemblerListingLocation>
+      <BasicRuntimeChecks>EnableFastChecks</BasicRuntimeChecks>
+      <CompileAs>CompileAsCpp</CompileAs>
+      <DebugInformationFormat>ProgramDatabase</DebugInformationFormat>
+      <EnableEnhancedInstructionSet>AdvancedVectorExtensions</EnableEnhancedInstructionSet>
+      <ExceptionHandling>Sync</ExceptionHandling>
+      <InlineFunctionExpansion>Disabled</InlineFunctionExpansion>
+      <Optimization>Disabled</Optimization>
+      <PrecompiledHeader>NotUsing</PrecompiledHeader>
+      <RuntimeLibrary>MultiThreadedDebugDLL</RuntimeLibrary>
+      <RuntimeTypeInfo>true</RuntimeTypeInfo>
+      <WarningLevel>Level3</WarningLevel>
+      <PreprocessorDefinitions>WIN32;_WINDOWS;DLIB_ISO_CPP_ONLY;DLIB_NO_GUI_SUPPORT;DLIB_ENABLE_STACK_TRACE;ENABLE_ASSERTS;DLIB_JPEG_SUPPORT;DLIB_PNG_SUPPORT;CMAKE_INTDIR="Debug";%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <ObjectFileName>$(IntDir)</ObjectFileName>
+    </ClCompile>
+    <ResourceCompile>
+      <PreprocessorDefinitions>WIN32;_DEBUG;_WINDOWS;DLIB_ISO_CPP_ONLY;DLIB_NO_GUI_SUPPORT;DLIB_ENABLE_STACK_TRACE;ENABLE_ASSERTS;DLIB_JPEG_SUPPORT;DLIB_PNG_SUPPORT;CMAKE_INTDIR=\"Debug\";%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <AdditionalIncludeDirectories>D:\FATEC\CURSOS UDEMY\RECONHECIMENTO FACIAL\dlib-19.15\dlib-19.15\dlib\..;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+    </ResourceCompile>
+    <Midl>
+      <AdditionalIncludeDirectories>D:\FATEC\CURSOS UDEMY\RECONHECIMENTO FACIAL\dlib-19.15\dlib-19.15\dlib\..;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <OutputDirectory>$(ProjectDir)/$(IntDir)</OutputDirectory>
+      <HeaderFileName>%(Filename).h</HeaderFileName>
+      <TypeLibraryName>%(Filename).tlb</TypeLibraryName>
+      <InterfaceIdentifierFileName>%(Filename)_i.c</InterfaceIdentifierFileName>
+      <ProxyFileName>%(Filename)_p.c</ProxyFileName>
+    </Midl>
+    <Link>
+      <AdditionalDependencies>dlib_build\Debug\dlib19.15.0_debug_32bit_msvc1915.lib;kernel32.lib;user32.lib;gdi32.lib;winspool.lib;shell32.lib;ole32.lib;oleaut32.lib;uuid.lib;comdlg32.lib;advapi32.lib</AdditionalDependencies>
+      <AdditionalLibraryDirectories>%(AdditionalLibraryDirectories)</AdditionalLibraryDirectories>
+      <AdditionalOptions>%(AdditionalOptions) /machine:X86</AdditionalOptions>
+      <GenerateDebugInformation>true</GenerateDebugInformation>
+      <IgnoreSpecificDefaultLibraries>%(IgnoreSpecificDefaultLibraries)</IgnoreSpecificDefaultLibraries>
+      <ImportLibrary>D:/FATEC/CURSOS UDEMY/RECONHECIMENTO FACIAL/dlib-19.10/tools/imglab/build/Debug/imglab.lib</ImportLibrary>
+      <ProgramDataBaseFile>D:/FATEC/CURSOS UDEMY/RECONHECIMENTO FACIAL/dlib-19.10/tools/imglab/build/Debug/imglab.pdb</ProgramDataBaseFile>
+      <SubSystem>Console</SubSystem>
+    </Link>
+    <ProjectReference>
+      <LinkLibraryDependencies>false</LinkLibraryDependencies>
+    </ProjectReference>
+  </ItemDefinitionGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
+    <ClCompile>
+      <AdditionalIncludeDirectories>D:\FATEC\CURSOS UDEMY\RECONHECIMENTO FACIAL\dlib-19.15\dlib-19.15\dlib\..;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <AdditionalOptions>%(AdditionalOptions) /bigobj</AdditionalOptions>
+      <AssemblerListingLocation>Release/</AssemblerListingLocation>
+      <CompileAs>CompileAsCpp</CompileAs>
+      <EnableEnhancedInstructionSet>AdvancedVectorExtensions</EnableEnhancedInstructionSet>
+      <ExceptionHandling>Sync</ExceptionHandling>
+      <InlineFunctionExpansion>AnySuitable</InlineFunctionExpansion>
+      <Optimization>MaxSpeed</Optimization>
+      <PrecompiledHeader>NotUsing</PrecompiledHeader>
+      <RuntimeLibrary>MultiThreadedDLL</RuntimeLibrary>
+      <RuntimeTypeInfo>true</RuntimeTypeInfo>
+      <WarningLevel>Level3</WarningLevel>
+      <PreprocessorDefinitions>WIN32;_WINDOWS;NDEBUG;DLIB_ISO_CPP_ONLY;DLIB_NO_GUI_SUPPORT;DLIB_ENABLE_STACK_TRACE;ENABLE_ASSERTS;DLIB_JPEG_SUPPORT;DLIB_PNG_SUPPORT;CMAKE_INTDIR="Release";%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <ObjectFileName>$(IntDir)</ObjectFileName>
+      <DebugInformationFormat>
+      </DebugInformationFormat>
+    </ClCompile>
+    <ResourceCompile>
+      <PreprocessorDefinitions>WIN32;_WINDOWS;NDEBUG;DLIB_ISO_CPP_ONLY;DLIB_NO_GUI_SUPPORT;DLIB_ENABLE_STACK_TRACE;ENABLE_ASSERTS;DLIB_JPEG_SUPPORT;DLIB_PNG_SUPPORT;CMAKE_INTDIR=\"Release\";%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <AdditionalIncludeDirectories>D:\FATEC\CURSOS UDEMY\RECONHECIMENTO FACIAL\dlib-19.15\dlib-19.15\dlib\..;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+    </ResourceCompile>
+    <Midl>
+      <AdditionalIncludeDirectories>D:\FATEC\CURSOS UDEMY\RECONHECIMENTO FACIAL\dlib-19.15\dlib-19.15\dlib\..;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <OutputDirectory>$(ProjectDir)/$(IntDir)</OutputDirectory>
+      <HeaderFileName>%(Filename).h</HeaderFileName>
+      <TypeLibraryName>%(Filename).tlb</TypeLibraryName>
+      <InterfaceIdentifierFileName>%(Filename)_i.c</InterfaceIdentifierFileName>
+      <ProxyFileName>%(Filename)_p.c</ProxyFileName>
+    </Midl>
+    <Link>
+      <AdditionalDependencies>dlib_build\Release\dlib19.15.0_release_32bit_msvc1915.lib;kernel32.lib;user32.lib;gdi32.lib;winspool.lib;shell32.lib;ole32.lib;oleaut32.lib;uuid.lib;comdlg32.lib;advapi32.lib</AdditionalDependencies>
+      <AdditionalLibraryDirectories>%(AdditionalLibraryDirectories)</AdditionalLibraryDirectories>
+      <AdditionalOptions>%(AdditionalOptions) /machine:X86</AdditionalOptions>
+      <GenerateDebugInformation>false</GenerateDebugInformation>
+      <IgnoreSpecificDefaultLibraries>%(IgnoreSpecificDefaultLibraries)</IgnoreSpecificDefaultLibraries>
+      <ImportLibrary>D:/FATEC/CURSOS UDEMY/RECONHECIMENTO FACIAL/dlib-19.10/tools/imglab/build/Release/imglab.lib</ImportLibrary>
+      <ProgramDataBaseFile>D:/FATEC/CURSOS UDEMY/RECONHECIMENTO FACIAL/dlib-19.10/tools/imglab/build/Release/imglab.pdb</ProgramDataBaseFile>
+      <SubSystem>Console</SubSystem>
+    </Link>
+    <ProjectReference>
+      <LinkLibraryDependencies>false</LinkLibraryDependencies>
+    </ProjectReference>
+  </ItemDefinitionGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='MinSizeRel|Win32'">
+    <ClCompile>
+      <AdditionalIncludeDirectories>D:\FATEC\CURSOS UDEMY\RECONHECIMENTO FACIAL\dlib-19.15\dlib-19.15\dlib\..;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <AdditionalOptions>%(AdditionalOptions) /bigobj</AdditionalOptions>
+      <AssemblerListingLocation>MinSizeRel/</AssemblerListingLocation>
+      <CompileAs>CompileAsCpp</CompileAs>
+      <EnableEnhancedInstructionSet>AdvancedVectorExtensions</EnableEnhancedInstructionSet>
+      <ExceptionHandling>Sync</ExceptionHandling>
+      <InlineFunctionExpansion>OnlyExplicitInline</InlineFunctionExpansion>
+      <Optimization>MinSpace</Optimization>
+      <PrecompiledHeader>NotUsing</PrecompiledHeader>
+      <RuntimeLibrary>MultiThreadedDLL</RuntimeLibrary>
+      <RuntimeTypeInfo>true</RuntimeTypeInfo>
+      <WarningLevel>Level3</WarningLevel>
+      <PreprocessorDefinitions>WIN32;_WINDOWS;NDEBUG;DLIB_ISO_CPP_ONLY;DLIB_NO_GUI_SUPPORT;DLIB_ENABLE_STACK_TRACE;ENABLE_ASSERTS;DLIB_JPEG_SUPPORT;DLIB_PNG_SUPPORT;CMAKE_INTDIR="MinSizeRel";%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <ObjectFileName>$(IntDir)</ObjectFileName>
+      <DebugInformationFormat>
+      </DebugInformationFormat>
+    </ClCompile>
+    <ResourceCompile>
+      <PreprocessorDefinitions>WIN32;_WINDOWS;NDEBUG;DLIB_ISO_CPP_ONLY;DLIB_NO_GUI_SUPPORT;DLIB_ENABLE_STACK_TRACE;ENABLE_ASSERTS;DLIB_JPEG_SUPPORT;DLIB_PNG_SUPPORT;CMAKE_INTDIR=\"MinSizeRel\";%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <AdditionalIncludeDirectories>D:\FATEC\CURSOS UDEMY\RECONHECIMENTO FACIAL\dlib-19.15\dlib-19.15\dlib\..;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+    </ResourceCompile>
+    <Midl>
+      <AdditionalIncludeDirectories>D:\FATEC\CURSOS UDEMY\RECONHECIMENTO FACIAL\dlib-19.15\dlib-19.15\dlib\..;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <OutputDirectory>$(ProjectDir)/$(IntDir)</OutputDirectory>
+      <HeaderFileName>%(Filename).h</HeaderFileName>
+      <TypeLibraryName>%(Filename).tlb</TypeLibraryName>
+      <InterfaceIdentifierFileName>%(Filename)_i.c</InterfaceIdentifierFileName>
+      <ProxyFileName>%(Filename)_p.c</ProxyFileName>
+    </Midl>
+    <Link>
+      <AdditionalDependencies>dlib_build\MinSizeRel\dlib19.15.0_minsizerel_32bit_msvc1915.lib;kernel32.lib;user32.lib;gdi32.lib;winspool.lib;shell32.lib;ole32.lib;oleaut32.lib;uuid.lib;comdlg32.lib;advapi32.lib</AdditionalDependencies>
+      <AdditionalLibraryDirectories>%(AdditionalLibraryDirectories)</AdditionalLibraryDirectories>
+      <AdditionalOptions>%(AdditionalOptions) /machine:X86</AdditionalOptions>
+      <GenerateDebugInformation>false</GenerateDebugInformation>
+      <IgnoreSpecificDefaultLibraries>%(IgnoreSpecificDefaultLibraries)</IgnoreSpecificDefaultLibraries>
+      <ImportLibrary>D:/FATEC/CURSOS UDEMY/RECONHECIMENTO FACIAL/dlib-19.10/tools/imglab/build/MinSizeRel/imglab.lib</ImportLibrary>
+      <ProgramDataBaseFile>D:/FATEC/CURSOS UDEMY/RECONHECIMENTO FACIAL/dlib-19.10/tools/imglab/build/MinSizeRel/imglab.pdb</ProgramDataBaseFile>
+      <SubSystem>Console</SubSystem>
+    </Link>
+    <ProjectReference>
+      <LinkLibraryDependencies>false</LinkLibraryDependencies>
+    </ProjectReference>
+  </ItemDefinitionGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|Win32'">
+    <ClCompile>
+      <AdditionalIncludeDirectories>D:\FATEC\CURSOS UDEMY\RECONHECIMENTO FACIAL\dlib-19.15\dlib-19.15\dlib\..;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <AdditionalOptions>%(AdditionalOptions) /bigobj</AdditionalOptions>
+      <AssemblerListingLocation>RelWithDebInfo/</AssemblerListingLocation>
+      <CompileAs>CompileAsCpp</CompileAs>
+      <DebugInformationFormat>ProgramDatabase</DebugInformationFormat>
+      <EnableEnhancedInstructionSet>AdvancedVectorExtensions</EnableEnhancedInstructionSet>
+      <ExceptionHandling>Sync</ExceptionHandling>
+      <InlineFunctionExpansion>OnlyExplicitInline</InlineFunctionExpansion>
+      <Optimization>MaxSpeed</Optimization>
+      <PrecompiledHeader>NotUsing</PrecompiledHeader>
+      <RuntimeLibrary>MultiThreadedDLL</RuntimeLibrary>
+      <RuntimeTypeInfo>true</RuntimeTypeInfo>
+      <WarningLevel>Level3</WarningLevel>
+      <PreprocessorDefinitions>WIN32;_WINDOWS;NDEBUG;DLIB_ISO_CPP_ONLY;DLIB_NO_GUI_SUPPORT;DLIB_ENABLE_STACK_TRACE;ENABLE_ASSERTS;DLIB_JPEG_SUPPORT;DLIB_PNG_SUPPORT;CMAKE_INTDIR="RelWithDebInfo";%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <ObjectFileName>$(IntDir)</ObjectFileName>
+    </ClCompile>
+    <ResourceCompile>
+      <PreprocessorDefinitions>WIN32;_WINDOWS;NDEBUG;DLIB_ISO_CPP_ONLY;DLIB_NO_GUI_SUPPORT;DLIB_ENABLE_STACK_TRACE;ENABLE_ASSERTS;DLIB_JPEG_SUPPORT;DLIB_PNG_SUPPORT;CMAKE_INTDIR=\"RelWithDebInfo\";%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <AdditionalIncludeDirectories>D:\FATEC\CURSOS UDEMY\RECONHECIMENTO FACIAL\dlib-19.15\dlib-19.15\dlib\..;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+    </ResourceCompile>
+    <Midl>
+      <AdditionalIncludeDirectories>D:\FATEC\CURSOS UDEMY\RECONHECIMENTO FACIAL\dlib-19.15\dlib-19.15\dlib\..;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <OutputDirectory>$(ProjectDir)/$(IntDir)</OutputDirectory>
+      <HeaderFileName>%(Filename).h</HeaderFileName>
+      <TypeLibraryName>%(Filename).tlb</TypeLibraryName>
+      <InterfaceIdentifierFileName>%(Filename)_i.c</InterfaceIdentifierFileName>
+      <ProxyFileName>%(Filename)_p.c</ProxyFileName>
+    </Midl>
+    <Link>
+      <AdditionalDependencies>dlib_build\RelWithDebInfo\dlib19.15.0_relwithdebinfo_32bit_msvc1915.lib;kernel32.lib;user32.lib;gdi32.lib;winspool.lib;shell32.lib;ole32.lib;oleaut32.lib;uuid.lib;comdlg32.lib;advapi32.lib</AdditionalDependencies>
+      <AdditionalLibraryDirectories>%(AdditionalLibraryDirectories)</AdditionalLibraryDirectories>
+      <AdditionalOptions>%(AdditionalOptions) /machine:X86</AdditionalOptions>
+      <GenerateDebugInformation>true</GenerateDebugInformation>
+      <IgnoreSpecificDefaultLibraries>%(IgnoreSpecificDefaultLibraries)</IgnoreSpecificDefaultLibraries>
+      <ImportLibrary>D:/FATEC/CURSOS UDEMY/RECONHECIMENTO FACIAL/dlib-19.10/tools/imglab/build/RelWithDebInfo/imglab.lib</ImportLibrary>
+      <ProgramDataBaseFile>D:/FATEC/CURSOS UDEMY/RECONHECIMENTO FACIAL/dlib-19.10/tools/imglab/build/RelWithDebInfo/imglab.pdb</ProgramDataBaseFile>
+      <SubSystem>Console</SubSystem>
+    </Link>
+    <ProjectReference>
+      <LinkLibraryDependencies>false</LinkLibraryDependencies>
+    </ProjectReference>
+  </ItemDefinitionGroup>
+  <ItemGroup>
+    <CustomBuild Include="D:\FATEC\CURSOS UDEMY\RECONHECIMENTO FACIAL\dlib-19.15\dlib-19.15\tools\imglab\CMakeLists.txt">
+      <Message Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">Building Custom Rule D:/FATEC/CURSOS UDEMY/RECONHECIMENTO FACIAL/dlib-19.15/dlib-19.15/tools/imglab/CMakeLists.txt</Message>
+      <Command Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">setlocal
+"C:\Program Files\CMake\bin\cmake.exe" "-HD:/FATEC/CURSOS UDEMY/RECONHECIMENTO FACIAL/dlib-19.15/dlib-19.15/tools/imglab" "-BD:/FATEC/CURSOS UDEMY/RECONHECIMENTO FACIAL/dlib-19.10/tools/imglab/build" --check-stamp-file "D:/FATEC/CURSOS UDEMY/RECONHECIMENTO FACIAL/dlib-19.10/tools/imglab/build/CMakeFiles/generate.stamp"
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal &amp; call :cmErrorLevel %errorlevel% &amp; goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd</Command>
+      <AdditionalInputs Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">D:/FATEC/CURSOS UDEMY/RECONHECIMENTO FACIAL/dlib-19.15/dlib-19.15/tools/imglab/CMakeLists.txt;C:\Program Files\CMake\share\cmake-3.12\Modules\CMakeCInformation.cmake;C:\Program Files\CMake\share\cmake-3.12\Modules\CMakeCXXInformation.cmake;C:\Program Files\CMake\share\cmake-3.12\Modules\CMakeCommonLanguageInclude.cmake;C:\Program Files\CMake\share\cmake-3.12\Modules\CMakeGenericSystem.cmake;C:\Program Files\CMake\share\cmake-3.12\Modules\CMakeInitializeConfigs.cmake;C:\Program Files\CMake\share\cmake-3.12\Modules\CMakeLanguageInformation.cmake;C:\Program Files\CMake\share\cmake-3.12\Modules\CMakeRCInformation.cmake;C:\Program Files\CMake\share\cmake-3.12\Modules\CMakeSystemSpecificInformation.cmake;C:\Program Files\CMake\share\cmake-3.12\Modules\CMakeSystemSpecificInitialize.cmake;C:\Program Files\CMake\share\cmake-3.12\Modules\Compiler\CMakeCommonCompilerMacros.cmake;C:\Program Files\CMake\share\cmake-3.12\Modules\Compiler\MSVC-C.cmake;C:\Program Files\CMake\share\cmake-3.12\Modules\Compiler\MSVC-CXX.cmake;C:\Program Files\CMake\share\cmake-3.12\Modules\Platform\Windows-MSVC-C.cmake;C:\Program Files\CMake\share\cmake-3.12\Modules\Platform\Windows-MSVC-CXX.cmake;C:\Program Files\CMake\share\cmake-3.12\Modules\Platform\Windows-MSVC.cmake;C:\Program Files\CMake\share\cmake-3.12\Modules\Platform\Windows.cmake;C:\Program Files\CMake\share\cmake-3.12\Modules\Platform\WindowsPaths.cmake;D:\FATEC\CURSOS UDEMY\RECONHECIMENTO FACIAL\dlib-19.10\tools\imglab\build\CMakeFiles\3.12.1\CMakeCCompiler.cmake;D:\FATEC\CURSOS UDEMY\RECONHECIMENTO FACIAL\dlib-19.10\tools\imglab\build\CMakeFiles\3.12.1\CMakeCXXCompiler.cmake;D:\FATEC\CURSOS UDEMY\RECONHECIMENTO FACIAL\dlib-19.10\tools\imglab\build\CMakeFiles\3.12.1\CMakeRCCompiler.cmake;D:\FATEC\CURSOS UDEMY\RECONHECIMENTO FACIAL\dlib-19.10\tools\imglab\build\CMakeFiles\3.12.1\CMakeSystem.cmake;D:\FATEC\CURSOS UDEMY\RECONHECIMENTO FACIAL\dlib-19.15\dlib-19.15\tools\imglab\CMakeLists.txt;D:\FATEC\CURSOS UDEMY\RECONHECIMENTO FACIAL\dlib-19.15\dlib-19.15\tools\imglab\CMakeLists.txt;%(AdditionalInputs)</AdditionalInputs>
+      <Outputs Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">D:\FATEC\CURSOS UDEMY\RECONHECIMENTO FACIAL\dlib-19.10\tools\imglab\build\CMakeFiles\generate.stamp</Outputs>
+      <LinkObjects Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">false</LinkObjects>
+      <Message Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">Building Custom Rule D:/FATEC/CURSOS UDEMY/RECONHECIMENTO FACIAL/dlib-19.15/dlib-19.15/tools/imglab/CMakeLists.txt</Message>
+      <Command Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">setlocal
+"C:\Program Files\CMake\bin\cmake.exe" "-HD:/FATEC/CURSOS UDEMY/RECONHECIMENTO FACIAL/dlib-19.15/dlib-19.15/tools/imglab" "-BD:/FATEC/CURSOS UDEMY/RECONHECIMENTO FACIAL/dlib-19.10/tools/imglab/build" --check-stamp-file "D:/FATEC/CURSOS UDEMY/RECONHECIMENTO FACIAL/dlib-19.10/tools/imglab/build/CMakeFiles/generate.stamp"
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal &amp; call :cmErrorLevel %errorlevel% &amp; goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd</Command>
+      <AdditionalInputs Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">D:/FATEC/CURSOS UDEMY/RECONHECIMENTO FACIAL/dlib-19.15/dlib-19.15/tools/imglab/CMakeLists.txt;C:\Program Files\CMake\share\cmake-3.12\Modules\CMakeCInformation.cmake;C:\Program Files\CMake\share\cmake-3.12\Modules\CMakeCXXInformation.cmake;C:\Program Files\CMake\share\cmake-3.12\Modules\CMakeCommonLanguageInclude.cmake;C:\Program Files\CMake\share\cmake-3.12\Modules\CMakeGenericSystem.cmake;C:\Program Files\CMake\share\cmake-3.12\Modules\CMakeInitializeConfigs.cmake;C:\Program Files\CMake\share\cmake-3.12\Modules\CMakeLanguageInformation.cmake;C:\Program Files\CMake\share\cmake-3.12\Modules\CMakeRCInformation.cmake;C:\Program Files\CMake\share\cmake-3.12\Modules\CMakeSystemSpecificInformation.cmake;C:\Program Files\CMake\share\cmake-3.12\Modules\CMakeSystemSpecificInitialize.cmake;C:\Program Files\CMake\share\cmake-3.12\Modules\Compiler\CMakeCommonCompilerMacros.cmake;C:\Program Files\CMake\share\cmake-3.12\Modules\Compiler\MSVC-C.cmake;C:\Program Files\CMake\share\cmake-3.12\Modules\Compiler\MSVC-CXX.cmake;C:\Program Files\CMake\share\cmake-3.12\Modules\Platform\Windows-MSVC-C.cmake;C:\Program Files\CMake\share\cmake-3.12\Modules\Platform\Windows-MSVC-CXX.cmake;C:\Program Files\CMake\share\cmake-3.12\Modules\Platform\Windows-MSVC.cmake;C:\Program Files\CMake\share\cmake-3.12\Modules\Platform\Windows.cmake;C:\Program Files\CMake\share\cmake-3.12\Modules\Platform\WindowsPaths.cmake;D:\FATEC\CURSOS UDEMY\RECONHECIMENTO FACIAL\dlib-19.10\tools\imglab\build\CMakeFiles\3.12.1\CMakeCCompiler.cmake;D:\FATEC\CURSOS UDEMY\RECONHECIMENTO FACIAL\dlib-19.10\tools\imglab\build\CMakeFiles\3.12.1\CMakeCXXCompiler.cmake;D:\FATEC\CURSOS UDEMY\RECONHECIMENTO FACIAL\dlib-19.10\tools\imglab\build\CMakeFiles\3.12.1\CMakeRCCompiler.cmake;D:\FATEC\CURSOS UDEMY\RECONHECIMENTO FACIAL\dlib-19.10\tools\imglab\build\CMakeFiles\3.12.1\CMakeSystem.cmake;D:\FATEC\CURSOS UDEMY\RECONHECIMENTO FACIAL\dlib-19.15\dlib-19.15\tools\imglab\CMakeLists.txt;D:\FATEC\CURSOS UDEMY\RECONHECIMENTO FACIAL\dlib-19.15\dlib-19.15\tools\imglab\CMakeLists.txt;%(AdditionalInputs)</AdditionalInputs>
+      <Outputs Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">D:\FATEC\CURSOS UDEMY\RECONHECIMENTO FACIAL\dlib-19.10\tools\imglab\build\CMakeFiles\generate.stamp</Outputs>
+      <LinkObjects Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">false</LinkObjects>
+      <Message Condition="'$(Configuration)|$(Platform)'=='MinSizeRel|Win32'">Building Custom Rule D:/FATEC/CURSOS UDEMY/RECONHECIMENTO FACIAL/dlib-19.15/dlib-19.15/tools/imglab/CMakeLists.txt</Message>
+      <Command Condition="'$(Configuration)|$(Platform)'=='MinSizeRel|Win32'">setlocal
+"C:\Program Files\CMake\bin\cmake.exe" "-HD:/FATEC/CURSOS UDEMY/RECONHECIMENTO FACIAL/dlib-19.15/dlib-19.15/tools/imglab" "-BD:/FATEC/CURSOS UDEMY/RECONHECIMENTO FACIAL/dlib-19.10/tools/imglab/build" --check-stamp-file "D:/FATEC/CURSOS UDEMY/RECONHECIMENTO FACIAL/dlib-19.10/tools/imglab/build/CMakeFiles/generate.stamp"
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal &amp; call :cmErrorLevel %errorlevel% &amp; goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd</Command>
+      <AdditionalInputs Condition="'$(Configuration)|$(Platform)'=='MinSizeRel|Win32'">D:/FATEC/CURSOS UDEMY/RECONHECIMENTO FACIAL/dlib-19.15/dlib-19.15/tools/imglab/CMakeLists.txt;C:\Program Files\CMake\share\cmake-3.12\Modules\CMakeCInformation.cmake;C:\Program Files\CMake\share\cmake-3.12\Modules\CMakeCXXInformation.cmake;C:\Program Files\CMake\share\cmake-3.12\Modules\CMakeCommonLanguageInclude.cmake;C:\Program Files\CMake\share\cmake-3.12\Modules\CMakeGenericSystem.cmake;C:\Program Files\CMake\share\cmake-3.12\Modules\CMakeInitializeConfigs.cmake;C:\Program Files\CMake\share\cmake-3.12\Modules\CMakeLanguageInformation.cmake;C:\Program Files\CMake\share\cmake-3.12\Modules\CMakeRCInformation.cmake;C:\Program Files\CMake\share\cmake-3.12\Modules\CMakeSystemSpecificInformation.cmake;C:\Program Files\CMake\share\cmake-3.12\Modules\CMakeSystemSpecificInitialize.cmake;C:\Program Files\CMake\share\cmake-3.12\Modules\Compiler\CMakeCommonCompilerMacros.cmake;C:\Program Files\CMake\share\cmake-3.12\Modules\Compiler\MSVC-C.cmake;C:\Program Files\CMake\share\cmake-3.12\Modules\Compiler\MSVC-CXX.cmake;C:\Program Files\CMake\share\cmake-3.12\Modules\Platform\Windows-MSVC-C.cmake;C:\Program Files\CMake\share\cmake-3.12\Modules\Platform\Windows-MSVC-CXX.cmake;C:\Program Files\CMake\share\cmake-3.12\Modules\Platform\Windows-MSVC.cmake;C:\Program Files\CMake\share\cmake-3.12\Modules\Platform\Windows.cmake;C:\Program Files\CMake\share\cmake-3.12\Modules\Platform\WindowsPaths.cmake;D:\FATEC\CURSOS UDEMY\RECONHECIMENTO FACIAL\dlib-19.10\tools\imglab\build\CMakeFiles\3.12.1\CMakeCCompiler.cmake;D:\FATEC\CURSOS UDEMY\RECONHECIMENTO FACIAL\dlib-19.10\tools\imglab\build\CMakeFiles\3.12.1\CMakeCXXCompiler.cmake;D:\FATEC\CURSOS UDEMY\RECONHECIMENTO FACIAL\dlib-19.10\tools\imglab\build\CMakeFiles\3.12.1\CMakeRCCompiler.cmake;D:\FATEC\CURSOS UDEMY\RECONHECIMENTO FACIAL\dlib-19.10\tools\imglab\build\CMakeFiles\3.12.1\CMakeSystem.cmake;D:\FATEC\CURSOS UDEMY\RECONHECIMENTO FACIAL\dlib-19.15\dlib-19.15\tools\imglab\CMakeLists.txt;D:\FATEC\CURSOS UDEMY\RECONHECIMENTO FACIAL\dlib-19.15\dlib-19.15\tools\imglab\CMakeLists.txt;%(AdditionalInputs)</AdditionalInputs>
+      <Outputs Condition="'$(Configuration)|$(Platform)'=='MinSizeRel|Win32'">D:\FATEC\CURSOS UDEMY\RECONHECIMENTO FACIAL\dlib-19.10\tools\imglab\build\CMakeFiles\generate.stamp</Outputs>
+      <LinkObjects Condition="'$(Configuration)|$(Platform)'=='MinSizeRel|Win32'">false</LinkObjects>
+      <Message Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|Win32'">Building Custom Rule D:/FATEC/CURSOS UDEMY/RECONHECIMENTO FACIAL/dlib-19.15/dlib-19.15/tools/imglab/CMakeLists.txt</Message>
+      <Command Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|Win32'">setlocal
+"C:\Program Files\CMake\bin\cmake.exe" "-HD:/FATEC/CURSOS UDEMY/RECONHECIMENTO FACIAL/dlib-19.15/dlib-19.15/tools/imglab" "-BD:/FATEC/CURSOS UDEMY/RECONHECIMENTO FACIAL/dlib-19.10/tools/imglab/build" --check-stamp-file "D:/FATEC/CURSOS UDEMY/RECONHECIMENTO FACIAL/dlib-19.10/tools/imglab/build/CMakeFiles/generate.stamp"
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal &amp; call :cmErrorLevel %errorlevel% &amp; goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd</Command>
+      <AdditionalInputs Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|Win32'">D:/FATEC/CURSOS UDEMY/RECONHECIMENTO FACIAL/dlib-19.15/dlib-19.15/tools/imglab/CMakeLists.txt;C:\Program Files\CMake\share\cmake-3.12\Modules\CMakeCInformation.cmake;C:\Program Files\CMake\share\cmake-3.12\Modules\CMakeCXXInformation.cmake;C:\Program Files\CMake\share\cmake-3.12\Modules\CMakeCommonLanguageInclude.cmake;C:\Program Files\CMake\share\cmake-3.12\Modules\CMakeGenericSystem.cmake;C:\Program Files\CMake\share\cmake-3.12\Modules\CMakeInitializeConfigs.cmake;C:\Program Files\CMake\share\cmake-3.12\Modules\CMakeLanguageInformation.cmake;C:\Program Files\CMake\share\cmake-3.12\Modules\CMakeRCInformation.cmake;C:\Program Files\CMake\share\cmake-3.12\Modules\CMakeSystemSpecificInformation.cmake;C:\Program Files\CMake\share\cmake-3.12\Modules\CMakeSystemSpecificInitialize.cmake;C:\Program Files\CMake\share\cmake-3.12\Modules\Compiler\CMakeCommonCompilerMacros.cmake;C:\Program Files\CMake\share\cmake-3.12\Modules\Compiler\MSVC-C.cmake;C:\Program Files\CMake\share\cmake-3.12\Modules\Compiler\MSVC-CXX.cmake;C:\Program Files\CMake\share\cmake-3.12\Modules\Platform\Windows-MSVC-C.cmake;C:\Program Files\CMake\share\cmake-3.12\Modules\Platform\Windows-MSVC-CXX.cmake;C:\Program Files\CMake\share\cmake-3.12\Modules\Platform\Windows-MSVC.cmake;C:\Program Files\CMake\share\cmake-3.12\Modules\Platform\Windows.cmake;C:\Program Files\CMake\share\cmake-3.12\Modules\Platform\WindowsPaths.cmake;D:\FATEC\CURSOS UDEMY\RECONHECIMENTO FACIAL\dlib-19.10\tools\imglab\build\CMakeFiles\3.12.1\CMakeCCompiler.cmake;D:\FATEC\CURSOS UDEMY\RECONHECIMENTO FACIAL\dlib-19.10\tools\imglab\build\CMakeFiles\3.12.1\CMakeCXXCompiler.cmake;D:\FATEC\CURSOS UDEMY\RECONHECIMENTO FACIAL\dlib-19.10\tools\imglab\build\CMakeFiles\3.12.1\CMakeRCCompiler.cmake;D:\FATEC\CURSOS UDEMY\RECONHECIMENTO FACIAL\dlib-19.10\tools\imglab\build\CMakeFiles\3.12.1\CMakeSystem.cmake;D:\FATEC\CURSOS UDEMY\RECONHECIMENTO FACIAL\dlib-19.15\dlib-19.15\tools\imglab\CMakeLists.txt;D:\FATEC\CURSOS UDEMY\RECONHECIMENTO FACIAL\dlib-19.15\dlib-19.15\tools\imglab\CMakeLists.txt;%(AdditionalInputs)</AdditionalInputs>
+      <Outputs Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|Win32'">D:\FATEC\CURSOS UDEMY\RECONHECIMENTO FACIAL\dlib-19.10\tools\imglab\build\CMakeFiles\generate.stamp</Outputs>
+      <LinkObjects Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|Win32'">false</LinkObjects>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="D:\FATEC\CURSOS UDEMY\RECONHECIMENTO FACIAL\dlib-19.15\dlib-19.15\tools\imglab\src\main.cpp" />
+    <ClInclude Include="D:\FATEC\CURSOS UDEMY\RECONHECIMENTO FACIAL\dlib-19.15\dlib-19.15\tools\imglab\src\metadata_editor.h" />
+    <ClCompile Include="D:\FATEC\CURSOS UDEMY\RECONHECIMENTO FACIAL\dlib-19.15\dlib-19.15\tools\imglab\src\metadata_editor.cpp" />
+    <ClInclude Include="D:\FATEC\CURSOS UDEMY\RECONHECIMENTO FACIAL\dlib-19.15\dlib-19.15\tools\imglab\src\convert_pascal_xml.h" />
+    <ClCompile Include="D:\FATEC\CURSOS UDEMY\RECONHECIMENTO FACIAL\dlib-19.15\dlib-19.15\tools\imglab\src\convert_pascal_xml.cpp" />
+    <ClInclude Include="D:\FATEC\CURSOS UDEMY\RECONHECIMENTO FACIAL\dlib-19.15\dlib-19.15\tools\imglab\src\convert_pascal_v1.h" />
+    <ClCompile Include="D:\FATEC\CURSOS UDEMY\RECONHECIMENTO FACIAL\dlib-19.15\dlib-19.15\tools\imglab\src\convert_pascal_v1.cpp" />
+    <ClInclude Include="D:\FATEC\CURSOS UDEMY\RECONHECIMENTO FACIAL\dlib-19.15\dlib-19.15\tools\imglab\src\convert_idl.h" />
+    <ClCompile Include="D:\FATEC\CURSOS UDEMY\RECONHECIMENTO FACIAL\dlib-19.15\dlib-19.15\tools\imglab\src\convert_idl.cpp" />
+    <ClInclude Include="D:\FATEC\CURSOS UDEMY\RECONHECIMENTO FACIAL\dlib-19.15\dlib-19.15\tools\imglab\src\common.h" />
+    <ClCompile Include="D:\FATEC\CURSOS UDEMY\RECONHECIMENTO FACIAL\dlib-19.15\dlib-19.15\tools\imglab\src\common.cpp" />
+    <ClCompile Include="D:\FATEC\CURSOS UDEMY\RECONHECIMENTO FACIAL\dlib-19.15\dlib-19.15\tools\imglab\src\cluster.cpp" />
+    <ClCompile Include="D:\FATEC\CURSOS UDEMY\RECONHECIMENTO FACIAL\dlib-19.15\dlib-19.15\tools\imglab\src\flip_dataset.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="D:\FATEC\CURSOS UDEMY\RECONHECIMENTO FACIAL\dlib-19.10\tools\imglab\build\ZERO_CHECK.vcxproj">
+      <Project>{35C9472C-2C2F-3E1E-98A0-A69DE28A9091}</Project>
+      <Name>ZERO_CHECK</Name>
+    </ProjectReference>
+    <ProjectReference Include="D:\FATEC\CURSOS UDEMY\RECONHECIMENTO FACIAL\dlib-19.10\tools\imglab\build\dlib_build\dlib.vcxproj">
+      <Project>{80BB5645-5A9D-3DEE-9961-B9491A3C3252}</Project>
+      <Name>dlib</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
+  <ImportGroup Label="ExtensionTargets">
+  </ImportGroup>
+</Project>

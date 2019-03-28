@@ -1,0 +1,9 @@
+# CMake generation dependency list for this directory.
+C:/Program Files/CMake/share/cmake-3.12/Modules/CheckIncludeFile.cmake
+C:/Program Files/CMake/share/cmake-3.12/Modules/CheckIncludeFileCXX.cmake
+C:/Program Files/CMake/share/cmake-3.12/Modules/CheckTypeSize.cmake
+C:/Program Files/CMake/share/cmake-3.12/Modules/GNUInstallDirs.cmake
+D:/FATEC/CURSOS UDEMY/RECONHECIMENTO FACIAL/dlib-19.15/dlib-19.15/dlib/CMakeLists.txt
+D:/FATEC/CURSOS UDEMY/RECONHECIMENTO FACIAL/dlib-19.15/dlib-19.15/dlib/cmake_utils/release_build_by_default
+D:/FATEC/CURSOS UDEMY/RECONHECIMENTO FACIAL/dlib-19.15/dlib-19.15/dlib/cmake_utils/set_compiler_specific_options.cmake
+D:/FATEC/CURSOS UDEMY/RECONHECIMENTO FACIAL/dlib-19.15/dlib-19.15/dlib/cmake_utils/use_cpp_11.cmake

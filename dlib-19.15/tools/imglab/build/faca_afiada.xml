@@ -1,0 +1,1303 @@
+<?xml version='1.0' encoding='ISO-8859-1'?>
+<?xml-stylesheet type='text/xsl' href='image_metadata_stylesheet.xsl'?>
+<dataset>
+<name>imglab dataset</name>
+<comment>Created by imglab tool.</comment>
+<images>
+  <image file='faca_fio/facas_afiadas/02.JPG'>
+    <box top='251' left='332' width='324' height='74'>
+      <part name='1' x='341' y='280'/>
+      <part name='2' x='501' y='303'/>
+      <part name='3' x='648' y='280'/>
+      <part name='4' x='501' y='272'/>
+    </box>
+  </image>
+  <image file='faca_fio/facas_afiadas/104.JPG'>
+    <box top='202' left='173' width='286' height='91'>
+      <part name='1' x='443' y='241'/>
+      <part name='2' x='331' y='229'/>
+      <part name='3' x='179' y='257'/>
+      <part name='4' x='332' y='278'/>
+    </box>
+  </image>
+  <image file='faca_fio/facas_afiadas/106.JPG'>
+    <box top='222' left='111' width='647' height='110'>
+      <part name='1' x='454' y='272'/>
+      <part name='2' x='317' y='243'/>
+      <part name='3' x='115' y='261'/>
+      <part name='4' x='314' y='312'/>
+    </box>
+  </image>
+  <image file='faca_fio/facas_afiadas/108.JPG'>
+    <box top='232' left='146' width='336' height='83'>
+      <part name='1' x='467' y='267'/>
+      <part name='2' x='324' y='247'/>
+      <part name='3' x='156' y='269'/>
+      <part name='4' x='323' y='290'/>
+    </box>
+  </image>
+  <image file='faca_fio/facas_afiadas/110.JPG'>
+    <box top='230' left='259' width='420' height='114'>
+      <part name='1' x='274' y='278'/>
+      <part name='2' x='473' y='249'/>
+      <part name='3' x='672' y='262'/>
+      <part name='4' x='473' y='299'/>
+    </box>
+  </image>
+  <image file='faca_fio/facas_afiadas/112.JPG'>
+    <box top='220' left='307' width='381' height='68'>
+      <part name='1' x='316' y='253'/>
+      <part name='2' x='499' y='272'/>
+      <part name='3' x='680' y='257'/>
+      <part name='4' x='497' y='232'/>
+    </box>
+  </image>
+  <image file='faca_fio/facas_afiadas/113.JPG'>
+    <box top='227' left='359' width='355' height='91'>
+      <part name='1' x='366' y='278'/>
+      <part name='2' x='562' y='298'/>
+      <part name='3' x='709' y='288'/>
+      <part name='4' x='561' y='247'/>
+    </box>
+  </image>
+  <image file='faca_fio/facas_afiadas/116.JPG'>
+    <box top='467' left='676' width='539' height='129'>
+      <part name='1' x='713' y='529'/>
+      <part name='2' x='969' y='568'/>
+      <part name='3' x='1205' y='555'/>
+      <part name='4' x='968' y='522'/>
+    </box>
+  </image>
+  <image file='faca_fio/facas_afiadas/118.JPG'>
+    <box top='371' left='532' width='681' height='165'>
+      <part name='1' x='542' y='457'/>
+      <part name='2' x='883' y='404'/>
+      <part name='3' x='1198' y='441'/>
+      <part name='4' x='884' y='483'/>
+    </box>
+  </image>
+  <image file='faca_fio/facas_afiadas/120.JPG'>
+    <box top='241' left='577' width='619' height='153'>
+      <part name='1' x='600' y='316'/>
+      <part name='2' x='881' y='273'/>
+      <part name='3' x='1185' y='320'/>
+      <part name='4' x='881' y='381'/>
+    </box>
+    <box top='442' left='504' width='733' height='178'>
+      <part name='1' x='565' y='529'/>
+      <part name='2' x='871' y='477'/>
+      <part name='3' x='1228' y='501'/>
+      <part name='4' x='872' y='606'/>
+    </box>
+  </image>
+  <image file='faca_fio/facas_afiadas/123.JPG'>
+    <box top='418' left='649' width='594' height='156'>
+      <part name='1' x='662' y='498'/>
+      <part name='2' x='984' y='452'/>
+      <part name='3' x='1234' y='468'/>
+      <part name='4' x='984' y='511'/>
+    </box>
+  </image>
+  <image file='faca_fio/facas_afiadas/131.JPG'>
+    <box top='191' left='314' width='364' height='96'>
+      <part name='1' x='333' y='236'/>
+      <part name='2' x='509' y='216'/>
+      <part name='3' x='672' y='247'/>
+      <part name='4' x='504' y='273'/>
+    </box>
+  </image>
+  <image file='faca_fio/facas_afiadas/133.JPG'>
+    <box top='182' left='329' width='336' height='95'>
+      <part name='1' x='356' y='222'/>
+      <part name='2' x='505' y='205'/>
+      <part name='3' x='648' y='229'/>
+      <part name='4' x='505' y='248'/>
+    </box>
+  </image>
+  <image file='faca_fio/facas_afiadas/171.JPG'>
+    <box top='266' left='420' width='273' height='79'>
+      <part name='1' x='446' y='304'/>
+      <part name='2' x='579' y='288'/>
+      <part name='3' x='689' y='291'/>
+      <part name='4' x='578' y='310'/>
+    </box>
+  </image>
+  <image file='faca_fio/facas_afiadas/Arthur03.08.2011001.jpg'>
+    <box top='252' left='436' width='305' height='86'>
+      <part name='1' x='462' y='287'/>
+      <part name='2' x='595' y='261'/>
+      <part name='3' x='719' y='274'/>
+      <part name='4' x='593' y='280'/>
+    </box>
+  </image>
+  <image file='faca_fio/facas_afiadas/Arthur03.08.2011002.jpg'>
+    <box top='212' left='437' width='317' height='92'>
+      <part name='1' x='456' y='255'/>
+      <part name='2' x='594' y='236'/>
+      <part name='3' x='747' y='265'/>
+      <part name='4' x='592' y='283'/>
+    </box>
+  </image>
+  <image file='faca_fio/facas_afiadas/Arthur03.08.2011003.jpg'>
+    <box top='213' left='151' width='628' height='99'>
+      <part name='1' x='459' y='255'/>
+      <part name='2' x='613' y='234'/>
+      <part name='3' x='761' y='245'/>
+      <part name='4' x='612' y='278'/>
+    </box>
+  </image>
+  <image file='faca_fio/facas_afiadas/Arthur03.08.2011006.jpg'>
+    <box top='295' left='382' width='410' height='82'>
+      <part name='1' x='395' y='335'/>
+      <part name='2' x='597' y='324'/>
+      <part name='3' x='785' y='330'/>
+      <part name='4' x='593' y='361'/>
+    </box>
+  </image>
+  <image file='faca_fio/facas_afiadas/Arthur03.08.2011007.jpg'>
+    <box top='291' left='199' width='304' height='65'>
+      <part name='1' x='494' y='329'/>
+      <part name='2' x='368' y='308'/>
+      <part name='3' x='208' y='297'/>
+      <part name='4' x='366' y='335'/>
+    </box>
+  </image>
+  <image file='faca_fio/facas_afiadas/Arthur03.08.2011009.jpg'>
+    <box top='245' left='142' width='291' height='73'>
+      <part name='1' x='410' y='278'/>
+      <part name='2' x='294' y='253'/>
+      <part name='3' x='148' y='270'/>
+      <part name='4' x='293' y='296'/>
+    </box>
+  </image>
+  <image file='faca_fio/facas_afiadas/Arthur03.08.2011011.jpg'>
+    <box top='228' left='431' width='283' height='73'>
+      <part name='1' x='457' y='262'/>
+      <part name='2' x='579' y='248'/>
+      <part name='3' x='703' y='248'/>
+      <part name='4' x='576' y='271'/>
+    </box>
+  </image>
+  <image file='faca_fio/facas_afiadas/Arthur03.08.2011013.jpg'>
+    <box top='206' left='114' width='397' height='106'>
+      <part name='1' x='491' y='256'/>
+      <part name='2' x='319' y='221'/>
+      <part name='3' x='122' y='225'/>
+      <part name='4' x='318' y='274'/>
+    </box>
+  </image>
+  <image file='faca_fio/facas_afiadas/Arthur03.08.2011016.jpg'>
+    <box top='148' left='137' width='422' height='90'>
+      <part name='1' x='538' y='185'/>
+      <part name='2' x='353' y='172'/>
+      <part name='3' x='148' y='177'/>
+      <part name='4' x='351' y='224'/>
+    </box>
+  </image>
+  <image file='faca_fio/facas_afiadas/DSC07346.JPG'>
+    <box top='721' left='910' width='334' height='121'>
+      <part name='1' x='939' y='786'/>
+      <part name='2' x='1070' y='809'/>
+      <part name='3' x='1228' y='748'/>
+      <part name='4' x='1068' y='762'/>
+    </box>
+  </image>
+  <image file='faca_fio/facas_afiadas/DSC07381.JPG'>
+    <box top='802' left='646' width='678' height='130'>
+      <part name='1' x='668' y='867'/>
+      <part name='2' x='1000' y='898'/>
+      <part name='3' x='1309' y='851'/>
+      <part name='4' x='1000' y='835'/>
+    </box>
+  </image>
+  <image file='faca_fio/facas_afiadas/DSC07384.JPG'>
+    <box top='665' left='49' width='839' height='187'>
+      <part name='1' x='840' y='763'/>
+      <part name='2' x='516' y='808'/>
+      <part name='3' x='60' y='798'/>
+      <part name='4' x='517' y='680'/>
+    </box>
+  </image>
+  <image file='faca_fio/facas_afiadas/DSC07388.JPG'>
+    <box top='610' left='496' width='769' height='207'>
+      <part name='1' x='517' y='704'/>
+      <part name='2' x='875' y='789'/>
+      <part name='3' x='1254' y='757'/>
+      <part name='4' x='879' y='646'/>
+    </box>
+  </image>
+  <image file='faca_fio/facas_afiadas/DSC07504.JPG'>
+    <box top='344' left='738' width='383' height='113'>
+      <part name='1' x='1109' y='404'/>
+      <part name='2' x='941' y='429'/>
+      <part name='3' x='751' y='401'/>
+      <part name='4' x='944' y='372'/>
+    </box>
+    <box top='638' left='23' width='1058' height='157'>
+      <part name='1' x='1061' y='734'/>
+      <part name='2' x='527' y='751'/>
+      <part name='3' x='35' y='769'/>
+      <part name='4' x='530' y='658'/>
+    </box>
+  </image>
+  <image file='faca_fio/facas_afiadas/DSC07518.JPG'>
+    <box top='651' left='359' width='875' height='185'>
+      <part name='1' x='388' y='763'/>
+      <part name='2' x='783' y='818'/>
+      <part name='3' x='1220' y='760'/>
+      <part name='4' x='788' y='678'/>
+    </box>
+  </image>
+  <image file='faca_fio/facas_afiadas/DSC07520.JPG'>
+    <box top='552' left='4' width='811' height='178'>
+      <part name='1' x='776' y='652'/>
+      <part name='2' x='462' y='702'/>
+      <part name='3' x='7' y='642'/>
+      <part name='4' x='470' y='564'/>
+    </box>
+  </image>
+  <image file='faca_fio/facas_afiadas/DSC07560.JPG'>
+    <box top='623' left='568' width='683' height='191'>
+      <part name='1' x='604' y='717'/>
+      <part name='2' x='916' y='786'/>
+      <part name='3' x='1238' y='740'/>
+      <part name='4' x='912' y='663'/>
+    </box>
+  </image>
+  <image file='faca_fio/facas_afiadas/DSC07590.JPG'>
+    <box top='611' left='40' width='1007' height='183'>
+      <part name='1' x='1020' y='729'/>
+      <part name='2' x='521' y='753'/>
+      <part name='3' x='48' y='747'/>
+      <part name='4' x='515' y='646'/>
+    </box>
+  </image>
+  <image file='faca_fio/facas_afiadas/DSC07641.JPG'>
+    <box top='623' left='574' width='701' height='193'>
+      <part name='1' x='603' y='730'/>
+      <part name='2' x='928' y='790'/>
+      <part name='3' x='1262' y='755'/>
+      <part name='4' x='928' y='683'/>
+    </box>
+  </image>
+  <image file='faca_fio/facas_afiadas/DSC07645.JPG'>
+    <box top='603' left='96' width='710' height='184'>
+      <part name='1' x='756' y='706'/>
+      <part name='2' x='444' y='744'/>
+      <part name='3' x='106' y='691'/>
+      <part name='4' x='446' y='668'/>
+    </box>
+  </image>
+  <image file='faca_fio/facas_afiadas/DSC07651.JPG'>
+    <box top='591' left='539' width='738' height='187'>
+      <part name='1' x='568' y='695'/>
+      <part name='2' x='901' y='762'/>
+      <part name='3' x='1263' y='716'/>
+      <part name='4' x='905' y='627'/>
+    </box>
+  </image>
+  <image file='faca_fio/facas_afiadas/DSC07655.JPG'>
+    <box top='685' left='658' width='625' height='132'>
+      <part name='1' x='685' y='755'/>
+      <part name='2' x='975' y='802'/>
+      <part name='3' x='1265' y='773'/>
+      <part name='4' x='976' y='723'/>
+    </box>
+  </image>
+  <image file='faca_fio/facas_afiadas/DSC07727.JPG'>
+    <box top='199' left='157' width='757' height='156'>
+      <part name='1' x='899' y='267'/>
+      <part name='2' x='559' y='214'/>
+      <part name='3' x='168' y='263'/>
+      <part name='4' x='557' y='311'/>
+    </box>
+    <box top='375' left='184' width='518' height='123'>
+      <part name='1' x='686' y='432'/>
+      <part name='2' x='449' y='381'/>
+      <part name='3' x='193' y='392'/>
+      <part name='4' x='448' y='468'/>
+    </box>
+  </image>
+  <image file='faca_fio/facas_afiadas/DSC07729.JPG'>
+    <box top='236' left='812' width='595' height='208'>
+      <part name='1' x='856' y='336'/>
+      <part name='2' x='1082' y='431'/>
+      <part name='3' x='1392' y='339'/>
+      <part name='4' x='1073' y='272'/>
+    </box>
+  </image>
+  <image file='faca_fio/facas_afiadas/DSC07734.JPG'>
+    <box top='212' left='137' width='655' height='180'>
+      <part name='1' x='780' y='294'/>
+      <part name='2' x='466' y='233'/>
+      <part name='3' x='155' y='275'/>
+      <part name='4' x='465' y='345'/>
+    </box>
+  </image>
+  <image file='faca_fio/facas_afiadas/DSC07742.JPG'>
+    <box top='169' left='605' width='725' height='131'>
+      <part name='1' x='623' y='229'/>
+      <part name='2' x='961' y='214'/>
+      <part name='3' x='1311' y='223'/>
+      <part name='4' x='961' y='263'/>
+    </box>
+  </image>
+  <image file='faca_fio/facas_afiadas/DSC07745.JPG'>
+    <box top='185' left='749' width='664' height='176'>
+      <part name='1' x='792' y='274'/>
+      <part name='2' x='1062' y='204'/>
+      <part name='3' x='1412' y='252'/>
+      <part name='4' x='1061' y='333'/>
+    </box>
+  </image>
+  <image file='faca_fio/facas_afiadas/DSC07758.JPG'>
+    <box top='237' left='178' width='616' height='142'>
+      <part name='1' x='778' y='301'/>
+      <part name='2' x='511' y='246'/>
+      <part name='3' x='193' y='267'/>
+      <part name='4' x='515' y='363'/>
+    </box>
+  </image>
+  <image file='faca_fio/facas_afiadas/DSC07760.JPG'>
+    <box top='150' left='106' width='816' height='167'>
+      <part name='1' x='891' y='233'/>
+      <part name='2' x='564' y='165'/>
+      <part name='3' x='112' y='229'/>
+      <part name='4' x='565' y='299'/>
+    </box>
+  </image>
+  <image file='faca_fio/facas_afiadas/DSC07802.JPG'>
+    <box top='724' left='451' width='853' height='179'>
+      <part name='1' x='471' y='805'/>
+      <part name='2' x='873' y='877'/>
+      <part name='3' x='1289' y='880'/>
+      <part name='4' x='872' y='760'/>
+    </box>
+    <box top='561' left='480' width='617' height='145'>
+      <part name='1' x='499' y='640'/>
+      <part name='2' x='770' y='689'/>
+      <part name='3' x='1088' y='663'/>
+      <part name='4' x='770' y='594'/>
+    </box>
+  </image>
+  <image file='faca_fio/facas_afiadas/DSC07807.JPG'>
+    <box top='748' left='269' width='1084' height='149'>
+      <part name='1' x='285' y='806'/>
+      <part name='2' x='782' y='870'/>
+      <part name='3' x='1339' y='875'/>
+      <part name='4' x='780' y='770'/>
+    </box>
+  </image>
+  <image file='faca_fio/facas_afiadas/DSC07808.JPG'>
+    <box top='595' left='251' width='533' height='148'>
+      <part name='1' x='752' y='683'/>
+      <part name='2' x='510' y='711'/>
+      <part name='3' x='260' y='668'/>
+      <part name='4' x='514' y='658'/>
+    </box>
+  </image>
+  <image file='faca_fio/facas_afiadas/DSC07815.JPG'>
+    <box top='676' left='630' width='633' height='176'>
+      <part name='1' x='676' y='772'/>
+      <part name='2' x='950' y='836'/>
+      <part name='3' x='1252' y='808'/>
+      <part name='4' x='950' y='726'/>
+    </box>
+  </image>
+  <image file='faca_fio/facas_afiadas/DSC07822.JPG'>
+    <box top='604' left='555' width='694' height='234'>
+      <part name='1' x='581' y='715'/>
+      <part name='2' x='907' y='806'/>
+      <part name='3' x='1235' y='810'/>
+      <part name='4' x='906' y='663'/>
+    </box>
+  </image>
+  <image file='faca_fio/facas_afiadas/DSC07835.JPG'>
+    <box top='660' left='628' width='616' height='195'>
+      <part name='1' x='637' y='771'/>
+      <part name='2' x='921' y='831'/>
+      <part name='3' x='1226' y='784'/>
+      <part name='4' x='919' y='700'/>
+    </box>
+  </image>
+  <image file='faca_fio/facas_afiadas/DSC07851.JPG'>
+    <box top='708' left='403' width='920' height='190'>
+      <part name='1' x='423' y='783'/>
+      <part name='2' x='849' y='858'/>
+      <part name='3' x='1312' y='884'/>
+      <part name='4' x='847' y='728'/>
+    </box>
+  </image>
+  <image file='faca_fio/facas_afiadas/DSC07852.JPG'>
+    <box top='731' left='657' width='656' height='179'>
+      <part name='1' x='695' y='827'/>
+      <part name='2' x='973' y='890'/>
+      <part name='3' x='1302' y='850'/>
+      <part name='4' x='978' y='766'/>
+    </box>
+    <box top='527' left='856' width='416' height='149'>
+      <part name='1' x='881' y='589'/>
+      <part name='2' x='1075' y='643'/>
+      <part name='3' x='1244' y='655'/>
+      <part name='4' x='1066' y='560'/>
+    </box>
+  </image>
+  <image file='faca_fio/facas_afiadas/DSC07901.JPG'>
+    <box top='624' left='684' width='551' height='158'>
+      <part name='1' x='714' y='710'/>
+      <part name='2' x='963' y='768'/>
+      <part name='3' x='1223' y='743'/>
+      <part name='4' x='964' y='688'/>
+    </box>
+  </image>
+  <image file='faca_fio/facas_afiadas/DSC07908.JPG'>
+    <box top='682' left='348' width='990' height='175'>
+      <part name='1' x='374' y='762'/>
+      <part name='2' x='814' y='812'/>
+      <part name='3' x='1321' y='840'/>
+      <part name='4' x='815' y='691'/>
+    </box>
+  </image>
+  <image file='faca_fio/facas_afiadas/DSC07913.JPG'>
+    <box top='594' left='581' width='692' height='182'>
+      <part name='1' x='618' y='687'/>
+      <part name='2' x='939' y='756'/>
+      <part name='3' x='1258' y='724'/>
+      <part name='4' x='941' y='636'/>
+    </box>
+  </image>
+  <image file='faca_fio/facas_afiadas/DSC07941.JPG'>
+    <box top='686' left='383' width='934' height='165'>
+      <part name='1' x='403' y='764'/>
+      <part name='2' x='848' y='815'/>
+      <part name='3' x='1303' y='838'/>
+      <part name='4' x='847' y='696'/>
+    </box>
+  </image>
+  <image file='faca_fio/facas_afiadas/DSC07954.JPG'>
+    <box top='580' left='530' width='798' height='162'>
+      <part name='1' x='550' y='667'/>
+      <part name='2' x='921' y='726'/>
+      <part name='3' x='1297' y='682'/>
+      <part name='4' x='917' y='608'/>
+    </box>
+  </image>
+  <image file='faca_fio/facas_afiadas/DSC08009.JPG'>
+    <box top='276' left='411' width='398' height='84'>
+      <part name='1' x='792' y='317'/>
+      <part name='2' x='627' y='349'/>
+      <part name='3' x='425' y='318'/>
+      <part name='4' x='627' y='284'/>
+    </box>
+  </image>
+  <image file='faca_fio/facas_afiadas/DSC08016.JPG'>
+    <box top='556' left='8' width='756' height='184'>
+      <part name='1' x='702' y='662'/>
+      <part name='2' x='408' y='715'/>
+      <part name='3' x='19' y='649'/>
+      <part name='4' x='412' y='602'/>
+    </box>
+  </image>
+  <image file='faca_fio/facas_afiadas/DSC08018.JPG'>
+    <box top='502' left='32' width='717' height='188'>
+      <part name='1' x='713' y='595'/>
+      <part name='2' x='434' y='666'/>
+      <part name='3' x='47' y='614'/>
+      <part name='4' x='438' y='532'/>
+    </box>
+  </image>
+  <image file='faca_fio/facas_afiadas/DSC08022.JPG'>
+    <box top='697' left='592' width='748' height='153'>
+      <part name='1' x='629' y='774'/>
+      <part name='2' x='959' y='819'/>
+      <part name='3' x='1325' y='786'/>
+      <part name='4' x='959' y='725'/>
+    </box>
+  </image>
+  <image file='faca_fio/facas_afiadas/DSC08025.JPG'>
+    <box top='487' left='613' width='693' height='195'>
+      <part name='1' x='638' y='600'/>
+      <part name='2' x='954' y='663'/>
+      <part name='3' x='1280' y='624'/>
+      <part name='4' x='951' y='552'/>
+    </box>
+  </image>
+  <image file='faca_fio/facas_afiadas/DSC08030.JPG'>
+    <box top='594' left='726' width='496' height='174'>
+      <part name='1' x='765' y='682'/>
+      <part name='2' x='973' y='746'/>
+      <part name='3' x='976' y='654'/>
+    </box>
+  </image>
+  <image file='faca_fio/facas_afiadas/DSC08108.JPG'>
+    <box top='524' left='710' width='552' height='205'>
+      <part name='1' x='723' y='626'/>
+      <part name='2' x='971' y='539'/>
+      <part name='3' x='1246' y='546'/>
+      <part name='4' x='975' y='681'/>
+    </box>
+  </image>
+  <image file='faca_fio/facas_afiadas/DSC08162.JPG'>
+    <box top='612' left='707' width='582' height='163'>
+      <part name='1' x='740' y='697'/>
+      <part name='2' x='975' y='756'/>
+      <part name='3' x='1271' y='720'/>
+      <part name='4' x='977' y='669'/>
+    </box>
+  </image>
+  <image file='faca_fio/facas_afiadas/DSC08166.JPG'>
+    <box top='539' left='635' width='583' height='132'>
+      <part name='1' x='648' y='608'/>
+      <part name='2' x='932' y='655'/>
+      <part name='3' x='1206' y='613'/>
+      <part name='4' x='935' y='548'/>
+    </box>
+  </image>
+  <image file='faca_fio/facas_afiadas/DSC08170.JPG'>
+    <box top='448' left='553' width='769' height='210'>
+      <part name='1' x='568' y='547'/>
+      <part name='2' x='907' y='622'/>
+      <part name='3' x='1308' y='596'/>
+      <part name='4' x='908' y='494'/>
+    </box>
+  </image>
+  <image file='faca_fio/facas_afiadas/DSC08176.JPG'>
+    <box top='527' left='577' width='742' height='190'>
+      <part name='1' x='601' y='629'/>
+      <part name='2' x='952' y='698'/>
+      <part name='3' x='1304' y='668'/>
+      <part name='4' x='949' y='608'/>
+    </box>
+  </image>
+  <image file='faca_fio/facas_afiadas/DSC08181.JPG'>
+    <box top='547' left='159' width='757' height='214'>
+      <part name='1' x='862' y='659'/>
+      <part name='2' x='515' y='729'/>
+      <part name='3' x='173' y='726'/>
+      <part name='4' x='521' y='560'/>
+    </box>
+  </image>
+  <image file='faca_fio/facas_afiadas/DSC08182.JPG'>
+    <box top='588' left='553' width='766' height='213'>
+      <part name='1' x='573' y='692'/>
+      <part name='2' x='945' y='783'/>
+      <part name='3' x='1305' y='784'/>
+      <part name='4' x='946' y='607'/>
+    </box>
+  </image>
+  <image file='faca_fio/facas_afiadas/DSC08214.JPG'>
+    <box top='567' left='93' width='679' height='182'>
+      <part name='1' x='724' y='672'/>
+      <part name='2' x='456' y='721'/>
+      <part name='3' x='107' y='669'/>
+      <part name='4' x='454' y='632'/>
+    </box>
+  </image>
+  <image file='faca_fio/facas_afiadas/DSC08215.JPG'>
+    <box top='630' left='585' width='642' height='115'>
+      <part name='1' x='614' y='684'/>
+      <part name='2' x='925' y='721'/>
+      <part name='3' x='1215' y='699'/>
+      <part name='4' x='920' y='645'/>
+    </box>
+  </image>
+  <image file='faca_fio/facas_afiadas/DSC08220.JPG'>
+    <box top='506' left='773' width='523' height='151'>
+      <part name='1' x='802' y='574'/>
+      <part name='2' x='1018' y='635'/>
+      <part name='3' x='1288' y='629'/>
+      <part name='4' x='1013' y='528'/>
+    </box>
+  </image>
+  <image file='faca_fio/facas_afiadas/DSC08236.JPG'>
+    <box top='510' left='97' width='882' height='156'>
+      <part name='1' x='955' y='594'/>
+      <part name='2' x='559' y='655'/>
+      <part name='3' x='108' y='642'/>
+      <part name='4' x='567' y='529'/>
+    </box>
+  </image>
+  <image file='faca_fio/facas_afiadas/DSC08247.JPG'>
+    <box top='471' left='59' width='703' height='216'>
+      <part name='1' x='717' y='581'/>
+      <part name='2' x='432' y='652'/>
+      <part name='3' x='68' y='617'/>
+      <part name='4' x='433' y='523'/>
+    </box>
+  </image>
+  <image file='faca_fio/facas_afiadas/DSC08250.JPG'>
+    <box top='504' left='56' width='699' height='176'>
+      <part name='1' x='723' y='603'/>
+      <part name='2' x='438' y='658'/>
+      <part name='3' x='75' y='609'/>
+      <part name='4' x='447' y='528'/>
+    </box>
+  </image>
+  <image file='faca_fio/facas_afiadas/DSC08252.JPG'>
+    <box top='504' left='565' width='743' height='175'>
+      <part name='1' x='586' y='587'/>
+      <part name='2' x='940' y='662'/>
+      <part name='3' x='1291' y='627'/>
+      <part name='4' x='941' y='546'/>
+    </box>
+  </image>
+  <image file='faca_fio/facas_afiadas/DSC08255.JPG'>
+    <box top='650' left='244' width='530' height='117'>
+      <part name='1' x='761' y='700'/>
+      <part name='2' x='517' y='754'/>
+      <part name='3' x='263' y='720'/>
+      <part name='4' x='515' y='668'/>
+    </box>
+  </image>
+  <image file='faca_fio/facas_afiadas/DSC08273.JPG'>
+    <box top='245' left='432' width='784' height='136'>
+      <part name='1' x='449' y='326'/>
+      <part name='2' x='834' y='335'/>
+      <part name='3' x='1200' y='323'/>
+      <part name='4' x='834' y='259'/>
+    </box>
+  </image>
+  <image file='faca_fio/facas_afiadas/DSC08277.JPG'>
+    <box top='531' left='586' width='715' height='179'>
+      <part name='1' x='629' y='639'/>
+      <part name='2' x='975' y='692'/>
+      <part name='3' x='1281' y='657'/>
+      <part name='4' x='970' y='592'/>
+    </box>
+  </image>
+  <image file='faca_fio/facas_afiadas/DSC08291.JPG'>
+    <box top='611' left='623' width='565' height='154'>
+      <part name='1' x='655' y='696'/>
+      <part name='2' x='910' y='745'/>
+      <part name='3' x='1174' y='704'/>
+      <part name='4' x='907' y='673'/>
+    </box>
+  </image>
+  <image file='faca_fio/facas_afiadas/DSC08292.JPG'>
+    <box top='487' left='29' width='751' height='191'>
+      <part name='1' x='725' y='597'/>
+      <part name='2' x='415' y='646'/>
+      <part name='3' x='32' y='588'/>
+      <part name='4' x='417' y='522'/>
+    </box>
+  </image>
+  <image file='faca_fio/facas_afiadas/DSC08295.JPG'>
+    <box top='638' left='414' width='891' height='196'>
+      <part name='1' x='440' y='726'/>
+      <part name='2' x='851' y='795'/>
+      <part name='3' x='1292' y='817'/>
+      <part name='4' x='850' y='652'/>
+    </box>
+  </image>
+  <image file='faca_fio/facas_afiadas/DSC08404.JPG'>
+    <box top='626' left='46' width='711' height='188'>
+      <part name='1' x='742' y='725'/>
+      <part name='2' x='437' y='798'/>
+      <part name='3' x='55' y='761'/>
+      <part name='4' x='438' y='656'/>
+    </box>
+  </image>
+  <image file='faca_fio/facas_afiadas/DSC08465.JPG'>
+    <box top='633' left='201' width='625' height='201'>
+      <part name='1' x='812' y='742'/>
+      <part name='2' x='515' y='800'/>
+      <part name='3' x='214' y='764'/>
+      <part name='4' x='521' y='646'/>
+    </box>
+  </image>
+  <image file='faca_fio/facas_afiadas/DSC08468.JPG'>
+    <box top='665' left='534' width='756' height='203'>
+      <part name='1' x='562' y='758'/>
+      <part name='2' x='923' y='833'/>
+      <part name='3' x='1279' y='827'/>
+      <part name='4' x='921' y='701'/>
+    </box>
+  </image>
+  <image file='faca_fio/facas_afiadas/DSC08470.JPG'>
+    <box top='725' left='875' width='419' height='128'>
+      <part name='1' x='897' y='782'/>
+      <part name='2' x='1079' y='823'/>
+      <part name='3' x='1281' y='787'/>
+      <part name='4' x='1081' y='745'/>
+    </box>
+  </image>
+  <image file='faca_fio/facas_afiadas/DSC08530.JPG'>
+    <box top='687' left='33' width='971' height='189'>
+      <part name='1' x='998' y='797'/>
+      <part name='2' x='516' y='833'/>
+      <part name='3' x='40' y='834'/>
+      <part name='4' x='521' y='711'/>
+    </box>
+  </image>
+  <image file='faca_fio/facas_afiadas/DSC08534.JPG'>
+    <box top='601' left='437' width='897' height='164'>
+      <part name='1' x='463' y='681'/>
+      <part name='2' x='890' y='738'/>
+      <part name='3' x='1321' y='746'/>
+      <part name='4' x='888' y='635'/>
+    </box>
+  </image>
+  <image file='faca_fio/facas_afiadas/DSC08536.JPG'>
+    <box top='700' left='197' width='703' height='185'>
+      <part name='1' x='872' y='795'/>
+      <part name='2' x='574' y='867'/>
+      <part name='3' x='208' y='850'/>
+      <part name='4' x='580' y='718'/>
+    </box>
+  </image>
+  <image file='faca_fio/facas_afiadas/DSC08538.JPG'>
+    <box top='577' left='543' width='739' height='183'>
+      <part name='1' x='561' y='676'/>
+      <part name='2' x='909' y='746'/>
+      <part name='3' x='1269' y='740'/>
+      <part name='4' x='906' y='609'/>
+    </box>
+  </image>
+  <image file='faca_fio/facas_afiadas/DSC08541.JPG'>
+    <box top='619' left='591' width='639' height='153'>
+      <part name='1' x='614' y='688'/>
+      <part name='2' x='905' y='742'/>
+      <part name='3' x='1217' y='754'/>
+      <part name='4' x='901' y='661'/>
+    </box>
+  </image>
+  <image file='faca_fio/facas_afiadas/DSC08658.JPG'>
+    <box top='571' left='597' width='702' height='176'>
+      <part name='1' x='609' y='659'/>
+      <part name='2' x='945' y='735'/>
+      <part name='3' x='1289' y='704'/>
+      <part name='4' x='941' y='610'/>
+    </box>
+  </image>
+  <image file='faca_fio/facas_afiadas/DSC08765.JPG'>
+    <box top='484' left='93' width='846' height='193'>
+      <part name='1' x='918' y='588'/>
+      <part name='2' x='521' y='501'/>
+      <part name='3' x='104' y='498'/>
+      <part name='4' x='526' y='642'/>
+    </box>
+  </image>
+  <image file='faca_fio/facas_afiadas/DSC08887.JPG'>
+    <box top='543' left='555' width='720' height='185'>
+      <part name='1' x='593' y='636'/>
+      <part name='2' x='913' y='711'/>
+      <part name='3' x='1267' y='678'/>
+      <part name='4' x='910' y='601'/>
+    </box>
+  </image>
+  <image file='faca_fio/facas_afiadas/DSC08889.JPG'>
+    <box top='605' left='415' width='804' height='127'>
+      <part name='1' x='430' y='666'/>
+      <part name='2' x='812' y='716'/>
+      <part name='3' x='1207' y='713'/>
+      <part name='4' x='811' y='626'/>
+    </box>
+  </image>
+  <image file='faca_fio/facas_afiadas/DSC08893.JPG'>
+    <box top='559' left='533' width='759' height='210'>
+      <part name='1' x='562' y='660'/>
+      <part name='2' x='910' y='748'/>
+      <part name='3' x='1272' y='751'/>
+      <part name='4' x='910' y='624'/>
+    </box>
+  </image>
+  <image file='faca_fio/facas_afiadas/DSC08897.JPG'>
+    <box top='582' left='587' width='630' height='178'>
+      <part name='1' x='614' y='679'/>
+      <part name='2' x='911' y='738'/>
+      <part name='3' x='1202' y='694'/>
+      <part name='4' x='910' y='621'/>
+    </box>
+  </image>
+  <image file='faca_fio/facas_afiadas/DSC08899.JPG'>
+    <box top='471' left='226' width='1052' height='154'>
+      <part name='1' x='849' y='556'/>
+      <part name='2' x='1025' y='610'/>
+      <part name='3' x='1272' y='553'/>
+      <part name='4' x='1026' y='511'/>
+    </box>
+  </image>
+  <image file='faca_fio/facas_afiadas/DSC08901.JPG'>
+    <box top='537' left='62' width='620' height='207'>
+      <part name='1' x='645' y='637'/>
+      <part name='2' x='385' y='704'/>
+      <part name='3' x='74' y='692'/>
+      <part name='4' x='395' y='549'/>
+    </box>
+  </image>
+  <image file='faca_fio/facas_afiadas/DSC08905.JPG'>
+    <box top='567' left='613' width='706' height='194'>
+      <part name='1' x='646' y='681'/>
+      <part name='2' x='967' y='748'/>
+      <part name='3' x='1301' y='717'/>
+      <part name='4' x='968' y='618'/>
+    </box>
+  </image>
+  <image file='faca_fio/facas_afiadas/DSC08906.JPG'>
+    <box top='446' left='584' width='706' height='191'>
+      <part name='1' x='615' y='536'/>
+      <part name='2' x='932' y='621'/>
+      <part name='3' x='1279' y='582'/>
+      <part name='4' x='927' y='490'/>
+    </box>
+  </image>
+  <image file='faca_fio/facas_afiadas/DSC08945.JPG'>
+    <box top='449' left='175' width='738' height='207'>
+      <part name='1' x='864' y='547'/>
+      <part name='2' x='573' y='464'/>
+      <part name='3' x='187' y='497'/>
+      <part name='4' x='567' y='589'/>
+    </box>
+  </image>
+  <image file='faca_fio/facas_afiadas/DSC08949.JPG'>
+    <box top='278' left='669' width='727' height='194'>
+      <part name='1' x='693' y='374'/>
+      <part name='2' x='951' y='388'/>
+      <part name='3' x='950' y='305'/>
+      <part name='4' x='1367' y='352'/>
+    </box>
+  </image>
+  <image file='faca_fio/facas_afiadas/DSC08950.JPG'>
+    <box top='323' left='602' width='807' height='238'>
+      <part name='1' x='624' y='416'/>
+      <part name='2' x='996' y='358'/>
+      <part name='3' x='1384' y='413'/>
+      <part name='4' x='998' y='526'/>
+    </box>
+  </image>
+  <image file='faca_fio/facas_afiadas/DSC08953.JPG'>
+    <box top='348' left='570' width='729' height='166'>
+      <part name='1' x='610' y='421'/>
+      <part name='2' x='915' y='356'/>
+      <part name='3' x='1268' y='389'/>
+      <part name='4' x='914' y='456'/>
+    </box>
+  </image>
+  <image file='faca_fio/facas_afiadas/DSC08983.JPG'>
+    <box top='565' left='643' width='662' height='189'>
+      <part name='1' x='673' y='661'/>
+      <part name='2' x='970' y='718'/>
+      <part name='3' x='1291' y='671'/>
+      <part name='4' x='965' y='627'/>
+    </box>
+  </image>
+  <image file='faca_fio/facas_afiadas/DSC08985.JPG'>
+    <box top='484' left='61' width='780' height='140'>
+      <part name='1' x='797' y='559'/>
+      <part name='2' x='485' y='604'/>
+      <part name='3' x='82' y='561'/>
+      <part name='4' x='490' y='496'/>
+    </box>
+  </image>
+  <image file='faca_fio/facas_afiadas/DSC09369.JPG'>
+    <box top='460' left='34' width='793' height='244'>
+      <part name='1' x='799' y='603'/>
+      <part name='2' x='468' y='505'/>
+      <part name='3' x='44' y='465'/>
+      <part name='4' x='467' y='651'/>
+    </box>
+  </image>
+  <image file='faca_fio/facas_afiadas/DSC09371.JPG'>
+    <box top='586' left='27' width='711' height='191'>
+      <part name='1' x='672' y='689'/>
+      <part name='2' x='378' y='738'/>
+      <part name='3' x='38' y='676'/>
+      <part name='4' x='385' y='621'/>
+    </box>
+  </image>
+  <image file='faca_fio/facas_afiadas/DSC09372.JPG'>
+    <box top='588' left='647' width='592' height='150'>
+      <part name='1' x='685' y='670'/>
+      <part name='2' x='949' y='708'/>
+      <part name='3' x='1223' y='656'/>
+      <part name='4' x='945' y='627'/>
+    </box>
+  </image>
+  <image file='faca_fio/facas_afiadas/DSC09557.JPG'>
+    <box top='332' left='114' width='768' height='166'>
+      <part name='1' x='839' y='414'/>
+      <part name='2' x='528' y='357'/>
+      <part name='3' x='123' y='387'/>
+      <part name='4' x='530' y='476'/>
+    </box>
+  </image>
+  <image file='faca_fio/facas_afiadas/DSC09912.JPG'>
+    <box top='451' left='33' width='720' height='195'>
+      <part name='1' x='698' y='535'/>
+      <part name='2' x='415' y='475'/>
+      <part name='3' x='40' y='526'/>
+      <part name='4' x='418' y='611'/>
+    </box>
+  </image>
+  <image file='faca_fio/facas_afiadas/DSCF4069.JPG'>
+    <box top='433' left='25' width='779' height='200'>
+      <part name='1' x='771' y='524'/>
+      <part name='2' x='451' y='454'/>
+      <part name='3' x='28' y='522'/>
+      <part name='4' x='452' y='582'/>
+    </box>
+  </image>
+  <image file='faca_fio/facas_afiadas/DSCF4295.JPG'>
+    <box top='405' left='106' width='787' height='185'>
+      <part name='1' x='861' y='494'/>
+      <part name='2' x='543' y='441'/>
+      <part name='3' x='117' y='506'/>
+      <part name='4' x='543' y='563'/>
+    </box>
+  </image>
+  <image file='faca_fio/facas_afiadas/DSCF4316.JPG'>
+    <box top='442' left='471' width='791' height='138'>
+      <part name='1' x='483' y='519'/>
+      <part name='2' x='858' y='460'/>
+      <part name='3' x='1245' y='457'/>
+      <part name='4' x='860' y='545'/>
+    </box>
+  </image>
+  <image file='faca_fio/facas_afiadas/DSCF4317.JPG'>
+    <box top='392' left='133' width='672' height='175'>
+      <part name='1' x='782' y='471'/>
+      <part name='2' x='485' y='410'/>
+      <part name='3' x='142' y='449'/>
+      <part name='4' x='486' y='519'/>
+    </box>
+  </image>
+  <image file='faca_fio/facas_afiadas/DSCF4318.JPG'>
+    <box top='392' left='258' width='602' height='152'>
+      <part name='1' x='818' y='466'/>
+      <part name='2' x='543' y='435'/>
+      <part name='3' x='268' y='455'/>
+      <part name='4' x='546' y='490'/>
+    </box>
+  </image>
+  <image file='faca_fio/facas_afiadas/DSCF4388.JPG'>
+    <box top='451' left='100' width='751' height='218'>
+      <part name='1' x='819' y='575'/>
+      <part name='2' x='507' y='489'/>
+      <part name='3' x='117' y='468'/>
+      <part name='4' x='507' y='626'/>
+    </box>
+  </image>
+  <image file='faca_fio/facas_afiadas/DSCF4389.JPG'>
+    <box top='426' left='27' width='894' height='196'>
+      <part name='1' x='882' y='529'/>
+      <part name='2' x='499' y='447'/>
+      <part name='3' x='31' y='481'/>
+      <part name='4' x='497' y='588'/>
+    </box>
+  </image>
+  <image file='faca_fio/facas_afiadas/DSCF4403.JPG'>
+    <box top='516' left='603' width='787' height='209'>
+      <part name='1' x='649' y='625'/>
+      <part name='2' x='980' y='539'/>
+      <part name='3' x='1377' y='552'/>
+      <part name='4' x='983' y='659'/>
+    </box>
+  </image>
+  <image file='faca_fio/facas_afiadas/DSCF4466.JPG'>
+    <box top='501' left='716' width='623' height='211'>
+      <part name='1' x='778' y='599'/>
+      <part name='2' x='1052' y='507'/>
+      <part name='3' x='1317' y='507'/>
+      <part name='4' x='1055' y='660'/>
+    </box>
+  </image>
+  <image file='faca_fio/facas_afiadas/DSCF4467.JPG'>
+    <box top='362' left='115' width='898' height='207'>
+      <part name='1' x='909' y='476'/>
+      <part name='2' x='586' y='392'/>
+      <part name='3' x='124' y='431'/>
+      <part name='4' x='587' y='506'/>
+    </box>
+  </image>
+  <image file='faca_fio/facas_afiadas/DSCF4523.JPG'>
+    <box top='591' left='122' width='694' height='180'>
+      <part name='1' x='788' y='675'/>
+      <part name='2' x='473' y='647'/>
+      <part name='3' x='131' y='728'/>
+      <part name='4' x='477' y='732'/>
+    </box>
+  </image>
+  <image file='faca_fio/facas_afiadas/DSCF4524.JPG'>
+    <box top='544' left='132' width='698' height='173'>
+      <part name='1' x='802' y='630'/>
+      <part name='2' x='497' y='591'/>
+      <part name='3' x='146' y='670'/>
+      <part name='4' x='500' y='676'/>
+    </box>
+  </image>
+  <image file='faca_fio/facas_afiadas/DSCF4527.JPG'>
+    <box top='283' left='114' width='748' height='207'>
+      <part name='1' x='825' y='383'/>
+      <part name='2' x='493' y='312'/>
+      <part name='3' x='125' y='349'/>
+      <part name='4' x='490' y='417'/>
+    </box>
+    <box top='528' left='96' width='741' height='212'>
+      <part name='1' x='811' y='647'/>
+      <part name='2' x='470' y='555'/>
+      <part name='3' x='104' y='548'/>
+      <part name='4' x='470' y='689'/>
+    </box>
+  </image>
+  <image file='faca_fio/facas_afiadas/DSCF4528.JPG'>
+    <box top='182' left='135' width='752' height='187'>
+      <part name='1' x='833' y='269'/>
+      <part name='2' x='509' y='198'/>
+      <part name='3' x='149' y='234'/>
+      <part name='4' x='508' y='300'/>
+    </box>
+    <box top='406' left='117' width='727' height='208'>
+      <part name='1' x='818' y='516'/>
+      <part name='2' x='489' y='435'/>
+      <part name='3' x='133' y='425'/>
+      <part name='4' x='492' y='565'/>
+    </box>
+  </image>
+  <image file='faca_fio/facas_afiadas/DSCF4543.JPG'>
+    <box top='490' left='255' width='503' height='130'>
+      <part name='1' x='736' y='563'/>
+      <part name='2' x='511' y='510'/>
+      <part name='3' x='265' y='504'/>
+      <part name='4' x='511' y='582'/>
+    </box>
+  </image>
+  <image file='faca_fio/facas_afiadas/DSCF4544.JPG'>
+    <box top='498' left='267' width='492' height='130'>
+      <part name='1' x='729' y='556'/>
+      <part name='2' x='535' y='515'/>
+      <part name='3' x='287' y='537'/>
+      <part name='4' x='537' y='591'/>
+    </box>
+  </image>
+  <image file='faca_fio/facas_afiadas/DSCF4565.JPG'>
+    <box top='463' left='117' width='599' height='123'>
+      <part name='1' x='678' y='524'/>
+      <part name='2' x='420' y='478'/>
+      <part name='3' x='121' y='503'/>
+      <part name='4' x='419' y='560'/>
+    </box>
+  </image>
+  <image file='faca_fio/facas_afiadas/DSCN1090.JPG'>
+    <box top='271' left='66' width='467' height='110'>
+      <part name='1' x='511' y='323'/>
+      <part name='2' x='308' y='286'/>
+      <part name='3' x='78' y='307'/>
+      <part name='4' x='309' y='341'/>
+    </box>
+  </image>
+  <image file='faca_fio/facas_afiadas/DSCN1091.JPG'>
+    <box top='240' left='110' width='409' height='101'>
+      <part name='1' x='507' y='288'/>
+      <part name='2' x='316' y='257'/>
+      <part name='3' x='117' y='281'/>
+      <part name='4' x='319' y='308'/>
+    </box>
+  </image>
+  <image file='faca_fio/facas_afiadas/DSCN1096.JPG'>
+    <box top='247' left='292' width='414' height='94'>
+      <part name='1' x='306' y='287'/>
+      <part name='2' x='494' y='325'/>
+      <part name='3' x='694' y='310'/>
+      <part name='4' x='493' y='273'/>
+    </box>
+  </image>
+  <image file='faca_fio/facas_afiadas/DSC_0036.JPG'>
+    <box top='506' left='680' width='678' height='171'>
+      <part name='1' x='723' y='592'/>
+      <part name='2' x='1028' y='539'/>
+      <part name='3' x='1342' y='574'/>
+      <part name='4' x='1036' y='636'/>
+    </box>
+  </image>
+  <image file='faca_fio/facas_afiadas/DSC_0037.JPG'>
+    <box top='438' left='181' width='702' height='180'>
+      <part name='1' x='836' y='530'/>
+      <part name='2' x='546' y='480'/>
+      <part name='3' x='207' y='548'/>
+      <part name='4' x='550' y='561'/>
+    </box>
+  </image>
+  <image file='faca_fio/facas_afiadas/DSC_0046.JPG'>
+    <box top='483' left='407' width='417' height='125'>
+      <part name='1' x='791' y='553'/>
+      <part name='2' x='618' y='503'/>
+      <part name='3' x='414' y='510'/>
+      <part name='4' x='616' y='547'/>
+    </box>
+  </image>
+  <image file='faca_fio/facas_afiadas/DSC_1420.JPG'>
+    <box top='174' left='251' width='538' height='98'>
+      <part name='1' x='277' y='223'/>
+      <part name='2' x='522' y='256'/>
+      <part name='3' x='778' y='234'/>
+      <part name='4' x='520' y='192'/>
+    </box>
+  </image>
+  <image file='faca_fio/facas_afiadas/DSC_5141.JPG'>
+    <box top='366' left='486' width='727' height='193'>
+      <part name='1' x='537' y='451'/>
+      <part name='2' x='774' y='514'/>
+      <part name='3' x='1207' y='456'/>
+      <part name='4' x='774' y='387'/>
+    </box>
+  </image>
+  <image file='faca_fio/facas_afiadas/DSC_5149.JPG'>
+    <box top='416' left='582' width='630' height='168'>
+      <part name='1' x='593' y='493'/>
+      <part name='2' x='929' y='469'/>
+      <part name='3' x='1198' y='516'/>
+      <part name='4' x='926' y='540'/>
+    </box>
+  </image>
+  <image file='faca_fio/facas_afiadas/DSC_5484.JPG'>
+    <box top='199' left='313' width='362' height='93'>
+      <part name='1' x='330' y='241'/>
+      <part name='2' x='481' y='223'/>
+      <part name='3' x='658' y='257'/>
+      <part name='4' x='477' y='277'/>
+    </box>
+  </image>
+  <image file='faca_fio/facas_afiadas/DSC_5490.JPG'>
+    <box top='201' left='342' width='309' height='86'>
+      <part name='1' x='359' y='244'/>
+      <part name='2' x='496' y='225'/>
+      <part name='3' x='642' y='247'/>
+      <part name='4' x='493' y='271'/>
+    </box>
+  </image>
+  <image file='faca_fio/facas_afiadas/IMG_0583.JPG'>
+    <box top='326' left='308' width='414' height='84'>
+      <part name='1' x='325' y='366'/>
+      <part name='2' x='505' y='393'/>
+      <part name='3' x='716' y='380'/>
+      <part name='4' x='505' y='339'/>
+    </box>
+  </image>
+  <image file='faca_fio/facas_afiadas/IMG_0631.JPG'>
+    <box top='221' left='38' width='404' height='120'>
+      <part name='1' x='387' y='279'/>
+      <part name='2' x='265' y='233'/>
+      <part name='3' x='48' y='266'/>
+      <part name='4' x='261' y='298'/>
+    </box>
+  </image>
+  <image file='faca_fio/facas_afiadas/IMG_1255.JPG'>
+    <box top='236' left='382' width='369' height='106'>
+      <part name='1' x='394' y='288'/>
+      <part name='2' x='574' y='249'/>
+      <part name='3' x='732' y='252'/>
+      <part name='4' x='571' y='311'/>
+    </box>
+  </image>
+  <image file='faca_fio/facas_afiadas/IMG_1256.JPG'>
+    <box top='363' left='315' width='295' height='82'>
+      <part name='1' x='328' y='400'/>
+      <part name='2' x='462' y='377'/>
+      <part name='3' x='597' y='392'/>
+      <part name='4' x='462' y='414'/>
+    </box>
+  </image>
+  <image file='faca_fio/facas_afiadas/IMG_1257.JPG'>
+    <box top='196' left='86' width='401' height='106'>
+      <part name='1' x='456' y='244'/>
+      <part name='2' x='299' y='208'/>
+      <part name='3' x='91' y='233'/>
+      <part name='4' x='296' y='256'/>
+    </box>
+  </image>
+  <image file='faca_fio/facas_afiadas/IMG_1453.JPG'>
+    <box top='210' left='155' width='563' height='117'>
+      <part name='1' x='164' y='267'/>
+      <part name='2' x='450' y='218'/>
+      <part name='3' x='708' y='263'/>
+      <part name='4' x='448' y='302'/>
+    </box>
+  </image>
+  <image file='faca_fio/facas_afiadas/IMG_1581.JPG'>
+    <box top='308' left='29' width='459' height='124'>
+      <part name='1' x='468' y='372'/>
+      <part name='2' x='271' y='327'/>
+      <part name='3' x='36' y='325'/>
+      <part name='4' x='269' y='408'/>
+    </box>
+  </image>
+  <image file='faca_fio/facas_afiadas/IMG_2371.JPG'>
+    <box top='208' left='424' width='316' height='93'>
+      <part name='1' x='444' y='252'/>
+      <part name='2' x='571' y='288'/>
+      <part name='3' x='728' y='279'/>
+      <part name='4' x='572' y='235'/>
+    </box>
+  </image>
+  <image file='faca_fio/facas_afiadas/IMG_2372.JPG'>
+    <box top='249' left='359' width='349' height='81'>
+      <part name='1' x='386' y='291'/>
+      <part name='2' x='528' y='269'/>
+      <part name='3' x='683' y='286'/>
+      <part name='4' x='528' y='302'/>
+    </box>
+    <box top='364' left='314' width='462' height='114'>
+      <part name='1' x='331' y='418'/>
+      <part name='2' x='566' y='388'/>
+      <part name='3' x='756' y='402'/>
+      <part name='4' x='561' y='468'/>
+    </box>
+  </image>
+  <image file='faca_fio/facas_afiadas/IMG_2375.JPG'>
+    <box top='269' left='53' width='409' height='115'>
+      <part name='1' x='438' y='328'/>
+      <part name='2' x='289' y='286'/>
+      <part name='3' x='61' y='304'/>
+      <part name='4' x='286' y='347'/>
+    </box>
+  </image>
+  <image file='faca_fio/facas_afiadas/IMG_2377.JPG'>
+    <box top='242' left='24' width='402' height='125'>
+      <part name='1' x='404' y='305'/>
+      <part name='2' x='238' y='256'/>
+      <part name='3' x='34' y='266'/>
+      <part name='4' x='229' y='323'/>
+    </box>
+  </image>
+  <image file='faca_fio/facas_afiadas/IMG_2378.JPG'>
+    <box top='242' left='56' width='424' height='109'>
+      <part name='1' x='468' y='292'/>
+      <part name='2' x='270' y='258'/>
+      <part name='3' x='63' y='280'/>
+      <part name='4' x='272' y='320'/>
+    </box>
+  </image>
+  <image file='faca_fio/facas_afiadas/IMG_2379.JPG'>
+    <box top='97' left='403' width='300' height='71'>
+      <part name='1' x='414' y='129'/>
+      <part name='2' x='542' y='159'/>
+      <part name='3' x='698' y='148'/>
+      <part name='4' x='542' y='112'/>
+    </box>
+  </image>
+  <image file='faca_fio/facas_afiadas/IMG_2380.JPG'>
+    <box top='255' left='92' width='343' height='111'>
+      <part name='1' x='403' y='310'/>
+      <part name='2' x='277' y='279'/>
+      <part name='3' x='107' y='302'/>
+      <part name='4' x='276' y='321'/>
+    </box>
+  </image>
+  <image file='faca_fio/facas_afiadas/IMG_2386.JPG'>
+    <box top='248' left='20' width='463' height='113'>
+      <part name='1' x='450' y='304'/>
+      <part name='2' x='281' y='256'/>
+      <part name='3' x='28' y='282'/>
+      <part name='4' x='279' y='335'/>
+    </box>
+  </image>
+  <image file='faca_fio/facas_afiadas/TODAY004.jpg'>
+    <box top='252' left='116' width='373' height='97'>
+      <part name='1' x='470' y='300'/>
+      <part name='2' x='305' y='338'/>
+      <part name='3' x='129' y='330'/>
+      <part name='4' x='307' y='277'/>
+    </box>
+  </image>
+</images>
+</dataset>

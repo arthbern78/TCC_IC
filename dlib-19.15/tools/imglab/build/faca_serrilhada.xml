@@ -1,0 +1,256 @@
+<?xml version='1.0' encoding='ISO-8859-1'?>
+<?xml-stylesheet type='text/xsl' href='image_metadata_stylesheet.xsl'?>
+<dataset>
+<name>imglab dataset</name>
+<comment>Created by imglab tool.</comment>
+<images>
+  <image file='faca_fio/facas_serrilhadas/127.JPG'>
+    <box top='245' left='312' width='318' height='63'>
+      <part name='1' x='328' y='279'/>
+      <part name='2' x='470' y='257'/>
+      <part name='3' x='620' y='252'/>
+      <part name='4' x='469' y='293'/>
+    </box>
+  </image>
+  <image file='faca_fio/facas_serrilhadas/171.JPG'>
+    <box top='156' left='360' width='325' height='73'>
+      <part name='1' x='371' y='190'/>
+      <part name='2' x='531' y='174'/>
+      <part name='3' x='676' y='173'/>
+      <part name='4' x='529' y='205'/>
+    </box>
+  </image>
+  <image file='faca_fio/facas_serrilhadas/Arthur03.08.2011004.jpg'>
+    <box top='258' left='429' width='301' height='64'>
+      <part name='1' x='444' y='281'/>
+      <part name='2' x='584' y='266'/>
+      <part name='3' x='709' y='267'/>
+      <part name='4' x='583' y='299'/>
+    </box>
+  </image>
+  <image file='faca_fio/facas_serrilhadas/Arthur03.08.2011008.jpg'>
+    <box top='285' left='194' width='232' height='65'>
+      <part name='1' x='416' y='315'/>
+      <part name='2' x='321' y='302'/>
+      <part name='3' x='202' y='302'/>
+      <part name='4' x='317' y='334'/>
+    </box>
+  </image>
+  <image file='faca_fio/facas_serrilhadas/DSC07348.JPG'>
+    <box top='759' left='779' width='469' height='106'>
+      <part name='1' x='796' y='808'/>
+      <part name='2' x='1019' y='840'/>
+      <part name='3' x='1221' y='844'/>
+      <part name='4' x='1018' y='783'/>
+    </box>
+  </image>
+  <image file='faca_fio/facas_serrilhadas/DSC07349.JPG'>
+    <box top='688' left='742' width='484' height='99'>
+      <part name='1' x='755' y='745'/>
+      <part name='2' x='993' y='768'/>
+      <part name='3' x='1205' y='757'/>
+      <part name='4' x='989' y='705'/>
+    </box>
+  </image>
+  <image file='faca_fio/facas_serrilhadas/DSC07648.JPG'>
+    <box top='726' left='720' width='552' height='139'>
+      <part name='1' x='737' y='790'/>
+      <part name='2' x='979' y='832'/>
+      <part name='3' x='1245' y='837'/>
+      <part name='4' x='980' y='756'/>
+    </box>
+  </image>
+  <image file='faca_fio/facas_serrilhadas/DSC07653.JPG'>
+    <box top='690' left='695' width='521' height='131'>
+      <part name='1' x='710' y='750'/>
+      <part name='2' x='954' y='786'/>
+      <part name='3' x='1200' y='801'/>
+      <part name='4' x='953' y='717'/>
+    </box>
+  </image>
+  <image file='faca_fio/facas_serrilhadas/DSC07727.JPG'>
+    <box top='580' left='253' width='428' height='94'>
+      <part name='1' x='644' y='628'/>
+      <part name='2' x='474' y='602'/>
+      <part name='3' x='258' y='595'/>
+      <part name='4' x='473' y='650'/>
+    </box>
+  </image>
+  <image file='faca_fio/facas_serrilhadas/DSC07733.JPG'>
+    <box top='253' left='183' width='568' height='120'>
+      <part name='1' x='730' y='307'/>
+      <part name='2' x='477' y='279'/>
+      <part name='3' x='194' y='279'/>
+      <part name='4' x='480' y='356'/>
+    </box>
+  </image>
+  <image file='faca_fio/facas_serrilhadas/DSC07744.JPG'>
+    <box top='198' left='755' width='608' height='129'>
+      <part name='1' x='767' y='256'/>
+      <part name='2' x='1060' y='226'/>
+      <part name='3' x='1341' y='217'/>
+      <part name='4' x='1062' y='298'/>
+    </box>
+  </image>
+  <image file='faca_fio/facas_serrilhadas/DSC07747.JPG'>
+    <box top='186' left='726' width='597' height='103'>
+      <part name='1' x='756' y='236'/>
+      <part name='2' x='1030' y='203'/>
+      <part name='3' x='1305' y='208'/>
+      <part name='4' x='1028' y='268'/>
+    </box>
+  </image>
+  <image file='faca_fio/facas_serrilhadas/DSC07810.JPG'>
+    <box top='775' left='877' width='420' height='109'>
+      <part name='1' x='885' y='827'/>
+      <part name='2' x='1098' y='853'/>
+      <part name='3' x='1278' y='861'/>
+      <part name='4' x='1089' y='797'/>
+    </box>
+  </image>
+  <image file='faca_fio/facas_serrilhadas/DSC07913.JPG'>
+    <box top='443' left='738' width='474' height='138'>
+      <part name='1' x='757' y='502'/>
+      <part name='2' x='976' y='547'/>
+      <part name='3' x='1192' y='565'/>
+      <part name='4' x='976' y='483'/>
+    </box>
+  </image>
+  <image file='faca_fio/facas_serrilhadas/DSC07927.JPG'>
+    <box top='732' left='96' width='493' height='114'>
+      <part name='1' x='566' y='803'/>
+      <part name='2' x='350' y='827'/>
+      <part name='3' x='120' y='819'/>
+      <part name='4' x='354' y='748'/>
+    </box>
+  </image>
+  <image file='faca_fio/facas_serrilhadas/DSC07956.JPG'>
+    <box top='632' left='609' width='636' height='118'>
+      <part name='1' x='629' y='688'/>
+      <part name='2' x='954' y='726'/>
+      <part name='3' x='1231' y='725'/>
+      <part name='4' x='951' y='645'/>
+    </box>
+  </image>
+  <image file='faca_fio/facas_serrilhadas/DSC08019.JPG'>
+    <box top='626' left='702' width='561' height='103'>
+      <part name='1' x='729' y='678'/>
+      <part name='2' x='988' y='708'/>
+      <part name='3' x='1245' y='708'/>
+      <part name='4' x='986' y='644'/>
+    </box>
+  </image>
+  <image file='faca_fio/facas_serrilhadas/DSC08156.JPG'>
+    <box top='649' left='766' width='512' height='102'>
+      <part name='1' x='779' y='700'/>
+      <part name='2' x='1015' y='728'/>
+      <part name='3' x='1266' y='728'/>
+      <part name='4' x='1017' y='664'/>
+    </box>
+  </image>
+  <image file='faca_fio/facas_serrilhadas/DSC08545.JPG'>
+    <box top='642' left='685' width='562' height='151'>
+      <part name='1' x='711' y='700'/>
+      <part name='2' x='983' y='754'/>
+      <part name='3' x='1230' y='765'/>
+      <part name='4' x='979' y='682'/>
+    </box>
+  </image>
+  <image file='faca_fio/facas_serrilhadas/DSC08547.JPG'>
+    <box top='604' left='685' width='565' height='137'>
+      <part name='1' x='711' y='678'/>
+      <part name='2' x='969' y='713'/>
+      <part name='3' x='1222' y='707'/>
+      <part name='4' x='965' y='621'/>
+    </box>
+  </image>
+  <image file='faca_fio/facas_serrilhadas/DSC08555.JPG'>
+    <box top='587' left='784' width='486' height='121'>
+      <part name='1' x='798' y='643'/>
+      <part name='2' x='1008' y='678'/>
+      <part name='3' x='1235' y='682'/>
+      <part name='4' x='1006' y='607'/>
+    </box>
+  </image>
+  <image file='faca_fio/facas_serrilhadas/DSC08655.JPG'>
+    <box top='620' left='721' width='475' height='119'>
+      <part name='1' x='744' y='678'/>
+      <part name='2' x='980' y='719'/>
+      <part name='3' x='1188' y='723'/>
+      <part name='4' x='974' y='652'/>
+    </box>
+  </image>
+  <image file='faca_fio/facas_serrilhadas/DSC08895.JPG'>
+    <box top='506' left='616' width='656' height='158'>
+      <part name='1' x='639' y='571'/>
+      <part name='2' x='960' y='627'/>
+      <part name='3' x='1250' y='640'/>
+      <part name='4' x='961' y='536'/>
+    </box>
+  </image>
+  <image file='faca_fio/facas_serrilhadas/DSC08902.JPG'>
+    <box top='489' left='86' width='594' height='120'>
+      <part name='1' x='651' y='550'/>
+      <part name='2' x='389' y='579'/>
+      <part name='3' x='95' y='577'/>
+      <part name='4' x='394' y='503'/>
+    </box>
+  </image>
+  <image file='faca_fio/facas_serrilhadas/DSC08955.JPG'>
+    <box top='357' left='252' width='451' height='89'>
+      <part name='1' x='687' y='397'/>
+      <part name='2' x='493' y='373'/>
+      <part name='3' x='266' y='382'/>
+      <part name='4' x='496' y='425'/>
+    </box>
+  </image>
+  <image file='faca_fio/facas_serrilhadas/DSC09368.JPG'>
+    <box top='635' left='325' width='454' height='94'>
+      <part name='1' x='754' y='676'/>
+      <part name='2' x='564' y='652'/>
+      <part name='3' x='341' y='663'/>
+      <part name='4' x='566' y='716'/>
+    </box>
+  </image>
+  <image file='faca_fio/facas_serrilhadas/DSCF4526.JPG'>
+    <box top='472' left='123' width='536' height='104'>
+      <part name='1' x='628' y='519'/>
+      <part name='2' x='418' y='492'/>
+      <part name='3' x='141' y='498'/>
+      <part name='4' x='418' y='559'/>
+    </box>
+  </image>
+  <image file='faca_fio/facas_serrilhadas/DSCF4530.JPG'>
+    <box top='330' left='123' width='622' height='106'>
+      <part name='1' x='719' y='371'/>
+      <part name='2' x='425' y='352'/>
+      <part name='3' x='135' y='361'/>
+      <part name='4' x='428' y='417'/>
+    </box>
+  </image>
+  <image file='faca_fio/facas_serrilhadas/DSCF4549.JPG'>
+    <box top='416' left='89' width='669' height='136'>
+      <part name='1' x='743' y='470'/>
+      <part name='2' x='423' y='458'/>
+      <part name='3' x='104' y='477'/>
+      <part name='4' x='426' y='534'/>
+    </box>
+  </image>
+  <image file='faca_fio/facas_serrilhadas/IMG_1082.JPG'>
+    <box top='262' left='101' width='288' height='68'>
+      <part name='1' x='378' y='291'/>
+      <part name='2' x='255' y='275'/>
+      <part name='3' x='108' y='268'/>
+      <part name='4' x='257' y='316'/>
+    </box>
+  </image>
+  <image file='faca_fio/facas_serrilhadas/IMG_1576.JPG'>
+    <box top='390' left='46' width='344' height='87'>
+      <part name='1' x='362' y='431'/>
+      <part name='2' x='224' y='410'/>
+      <part name='3' x='55' y='407'/>
+      <part name='4' x='221' y='454'/>
+    </box>
+  </image>
+</images>
+</dataset>

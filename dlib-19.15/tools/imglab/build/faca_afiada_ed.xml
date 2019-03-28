@@ -1,0 +1,812 @@
+<?xml version='1.0' encoding='ISO-8859-1'?>
+<?xml-stylesheet type='text/xsl' href='image_metadata_stylesheet.xsl'?>
+<dataset>
+<name>imglab dataset</name>
+<comment>Created by imglab tool.</comment>
+<images>
+  <image file='faca_fio/facas_afiadas/02.JPG'>
+    <box top='251' left='332' width='324' height='74'>
+      
+    </box>
+  </image>
+  <image file='faca_fio/facas_afiadas/104.JPG'>
+    <box top='202' left='173' width='286' height='91'>
+      
+    </box>
+  </image>
+  <image file='faca_fio/facas_afiadas/106.JPG'>
+    <box top='222' left='111' width='647' height='110'>
+      
+    </box>
+  </image>
+  <image file='faca_fio/facas_afiadas/108.JPG'>
+    <box top='232' left='146' width='336' height='83'>
+      
+    </box>
+  </image>
+  <image file='faca_fio/facas_afiadas/110.JPG'>
+    <box top='230' left='259' width='420' height='114'>
+      
+    </box>
+  </image>
+  <image file='faca_fio/facas_afiadas/112.JPG'>
+    <box top='220' left='307' width='381' height='68'>
+      
+    </box>
+  </image>
+  <image file='faca_fio/facas_afiadas/113.JPG'>
+    <box top='227' left='359' width='355' height='91'>
+     
+    </box>
+  </image>
+  <image file='faca_fio/facas_afiadas/116.JPG'>
+    <box top='467' left='676' width='539' height='129'>
+      
+    </box>
+  </image>
+  <image file='faca_fio/facas_afiadas/118.JPG'>
+    <box top='371' left='532' width='681' height='165'>
+      
+    </box>
+  </image>
+  <image file='faca_fio/facas_afiadas/120.JPG'>
+    <box top='241' left='577' width='619' height='153'>
+      
+    </box>
+    <box top='442' left='504' width='733' height='178'>
+      
+    </box>
+  </image>
+  <image file='faca_fio/facas_afiadas/123.JPG'>
+    <box top='418' left='649' width='594' height='156'>
+      
+    </box>
+  </image>
+  <image file='faca_fio/facas_afiadas/131.JPG'>
+    <box top='191' left='314' width='364' height='96'>
+      
+    </box>
+  </image>
+  <image file='faca_fio/facas_afiadas/133.JPG'>
+    <box top='182' left='329' width='336' height='95'>
+      
+    </box>
+  </image>
+  <image file='faca_fio/facas_afiadas/171.JPG'>
+    <box top='266' left='420' width='273' height='79'>
+     
+    </box>
+  </image>
+  <image file='faca_fio/facas_afiadas/Arthur03.08.2011001.jpg'>
+    <box top='252' left='436' width='305' height='86'>
+      
+    </box>
+  </image>
+  <image file='faca_fio/facas_afiadas/Arthur03.08.2011002.jpg'>
+    <box top='212' left='437' width='317' height='92'>
+      
+    </box>
+  </image>
+  <image file='faca_fio/facas_afiadas/Arthur03.08.2011003.jpg'>
+    <box top='213' left='151' width='628' height='99'>
+     
+    </box>
+  </image>
+  <image file='faca_fio/facas_afiadas/Arthur03.08.2011006.jpg'>
+    <box top='295' left='382' width='410' height='82'>
+      
+    </box>
+  </image>
+  <image file='faca_fio/facas_afiadas/Arthur03.08.2011007.jpg'>
+    <box top='291' left='199' width='304' height='65'>
+      
+    </box>
+  </image>
+  <image file='faca_fio/facas_afiadas/Arthur03.08.2011009.jpg'>
+    <box top='245' left='142' width='291' height='73'>
+      
+    </box>
+  </image>
+  <image file='faca_fio/facas_afiadas/Arthur03.08.2011011.jpg'>
+    <box top='228' left='431' width='283' height='73'>
+     
+    </box>
+  </image>
+  <image file='faca_fio/facas_afiadas/Arthur03.08.2011013.jpg'>
+    <box top='206' left='114' width='397' height='106'>
+      
+    </box>
+  </image>
+  <image file='faca_fio/facas_afiadas/Arthur03.08.2011016.jpg'>
+    <box top='148' left='137' width='422' height='90'>
+     
+    </box>
+  </image>
+  <image file='faca_fio/facas_afiadas/DSC07346.JPG'>
+    <box top='721' left='910' width='334' height='121'>
+      
+    </box>
+  </image>
+  <image file='faca_fio/facas_afiadas/DSC07381.JPG'>
+    <box top='802' left='646' width='678' height='130'>
+      
+    </box>
+  </image>
+  <image file='faca_fio/facas_afiadas/DSC07384.JPG'>
+    <box top='665' left='49' width='839' height='187'>
+      
+    </box>
+  </image>
+  <image file='faca_fio/facas_afiadas/DSC07388.JPG'>
+    <box top='610' left='496' width='769' height='207'>
+      
+    </box>
+  </image>
+  <image file='faca_fio/facas_afiadas/DSC07504.JPG'>
+    <box top='344' left='738' width='383' height='113'>
+      
+    </box>
+    <box top='638' left='23' width='1058' height='157'>
+      
+    </box>
+  </image>
+  <image file='faca_fio/facas_afiadas/DSC07518.JPG'>
+    <box top='651' left='359' width='875' height='185'>
+      
+    </box>
+  </image>
+  <image file='faca_fio/facas_afiadas/DSC07520.JPG'>
+    <box top='552' left='4' width='811' height='178'>
+      
+    </box>
+  </image>
+  <image file='faca_fio/facas_afiadas/DSC07560.JPG'>
+    <box top='623' left='568' width='683' height='191'>
+      
+    </box>
+  </image>
+  <image file='faca_fio/facas_afiadas/DSC07590.JPG'>
+    <box top='611' left='40' width='1007' height='183'>
+     
+    </box>
+  </image>
+  <image file='faca_fio/facas_afiadas/DSC07641.JPG'>
+    <box top='623' left='574' width='701' height='193'>
+     
+    </box>
+  </image>
+  <image file='faca_fio/facas_afiadas/DSC07645.JPG'>
+    <box top='603' left='96' width='710' height='184'>
+      
+    </box>
+  </image>
+  <image file='faca_fio/facas_afiadas/DSC07651.JPG'>
+    <box top='591' left='539' width='738' height='187'>
+      
+    </box>
+  </image>
+  <image file='faca_fio/facas_afiadas/DSC07655.JPG'>
+    <box top='685' left='658' width='625' height='132'>
+      
+    </box>
+  </image>
+  <image file='faca_fio/facas_afiadas/DSC07727.JPG'>
+    <box top='199' left='157' width='757' height='156'>
+      
+    </box>
+    <box top='375' left='184' width='518' height='123'>
+     
+    </box>
+  </image>
+  <image file='faca_fio/facas_afiadas/DSC07729.JPG'>
+    <box top='236' left='812' width='595' height='208'>
+      
+    </box>
+  </image>
+  <image file='faca_fio/facas_afiadas/DSC07734.JPG'>
+    <box top='212' left='137' width='655' height='180'>
+      
+    </box>
+  </image>
+  <image file='faca_fio/facas_afiadas/DSC07742.JPG'>
+    <box top='169' left='605' width='725' height='131'>
+      
+    </box>
+  </image>
+  <image file='faca_fio/facas_afiadas/DSC07745.JPG'>
+    <box top='185' left='749' width='664' height='176'>
+      
+    </box>
+  </image>
+  <image file='faca_fio/facas_afiadas/DSC07758.JPG'>
+    <box top='237' left='178' width='616' height='142'>
+      
+    </box>
+  </image>
+  <image file='faca_fio/facas_afiadas/DSC07760.JPG'>
+    <box top='150' left='106' width='816' height='167'>
+      
+    </box>
+  </image>
+  <image file='faca_fio/facas_afiadas/DSC07802.JPG'>
+    <box top='724' left='451' width='853' height='179'>
+      
+    </box>
+    <box top='561' left='480' width='617' height='145'>
+      
+    </box>
+  </image>
+  <image file='faca_fio/facas_afiadas/DSC07807.JPG'>
+    <box top='748' left='269' width='1084' height='149'>
+      
+    </box>
+  </image>
+  <image file='faca_fio/facas_afiadas/DSC07808.JPG'>
+    <box top='595' left='251' width='533' height='148'>
+      
+    </box>
+  </image>
+  <image file='faca_fio/facas_afiadas/DSC07815.JPG'>
+    <box top='676' left='630' width='633' height='176'>
+      
+    </box>
+  </image>
+  <image file='faca_fio/facas_afiadas/DSC07822.JPG'>
+    <box top='604' left='555' width='694' height='234'>
+      
+    </box>
+  </image>
+  <image file='faca_fio/facas_afiadas/DSC07835.JPG'>
+    <box top='660' left='628' width='616' height='195'>
+      
+    </box>
+  </image>
+  <image file='faca_fio/facas_afiadas/DSC07851.JPG'>
+    <box top='708' left='403' width='920' height='190'>
+      
+    </box>
+  </image>
+  <image file='faca_fio/facas_afiadas/DSC07852.JPG'>
+    <box top='731' left='657' width='656' height='179'>
+      
+    </box>
+    <box top='527' left='856' width='416' height='149'>
+      
+    </box>
+  </image>
+  <image file='faca_fio/facas_afiadas/DSC07901.JPG'>
+    <box top='624' left='684' width='551' height='158'>
+      
+    </box>
+  </image>
+  <image file='faca_fio/facas_afiadas/DSC07908.JPG'>
+    <box top='682' left='348' width='990' height='175'>
+      
+    </box>
+  </image>
+  <image file='faca_fio/facas_afiadas/DSC07913.JPG'>
+    <box top='594' left='581' width='692' height='182'>
+      
+    </box>
+  </image>
+  <image file='faca_fio/facas_afiadas/DSC07941.JPG'>
+    <box top='686' left='383' width='934' height='165'>
+      
+    </box>
+  </image>
+  <image file='faca_fio/facas_afiadas/DSC07954.JPG'>
+    <box top='580' left='530' width='798' height='162'>
+      
+    </box>
+  </image>
+  <image file='faca_fio/facas_afiadas/DSC08009.JPG'>
+    <box top='276' left='411' width='398' height='84'>
+      
+    </box>
+  </image>
+  <image file='faca_fio/facas_afiadas/DSC08016.JPG'>
+    <box top='556' left='8' width='756' height='184'>
+     
+    </box>
+  </image>
+  <image file='faca_fio/facas_afiadas/DSC08018.JPG'>
+    <box top='502' left='32' width='717' height='188'>
+     
+    </box>
+  </image>
+  <image file='faca_fio/facas_afiadas/DSC08022.JPG'>
+    <box top='697' left='592' width='748' height='153'>
+     
+    </box>
+  </image>
+  <image file='faca_fio/facas_afiadas/DSC08025.JPG'>
+    <box top='487' left='613' width='693' height='195'>
+      
+    </box>
+  </image>
+  <image file='faca_fio/facas_afiadas/DSC08030.JPG'>
+    <box top='594' left='726' width='496' height='174'>
+      
+    </box>
+  </image>
+  <image file='faca_fio/facas_afiadas/DSC08108.JPG'>
+    <box top='524' left='710' width='552' height='205'>
+     
+    </box>
+  </image>
+  <image file='faca_fio/facas_afiadas/DSC08162.JPG'>
+    <box top='612' left='707' width='582' height='163'>
+     
+    </box>
+  </image>
+  <image file='faca_fio/facas_afiadas/DSC08166.JPG'>
+    <box top='539' left='635' width='583' height='132'>
+      
+    </box>
+  </image>
+  <image file='faca_fio/facas_afiadas/DSC08170.JPG'>
+    <box top='448' left='553' width='769' height='210'>
+     
+    </box>
+  </image>
+  <image file='faca_fio/facas_afiadas/DSC08176.JPG'>
+    <box top='527' left='577' width='742' height='190'>
+      
+    </box>
+  </image>
+  <image file='faca_fio/facas_afiadas/DSC08181.JPG'>
+    <box top='547' left='159' width='757' height='214'>
+      
+    </box>
+  </image>
+  <image file='faca_fio/facas_afiadas/DSC08182.JPG'>
+    <box top='588' left='553' width='766' height='213'>
+      
+    </box>
+  </image>
+  <image file='faca_fio/facas_afiadas/DSC08214.JPG'>
+    <box top='567' left='93' width='679' height='182'>
+     
+    </box>
+  </image>
+  <image file='faca_fio/facas_afiadas/DSC08215.JPG'>
+    <box top='630' left='585' width='642' height='115'>
+     
+    </box>
+  </image>
+  <image file='faca_fio/facas_afiadas/DSC08220.JPG'>
+    <box top='506' left='773' width='523' height='151'>
+      
+    </box>
+  </image>
+  <image file='faca_fio/facas_afiadas/DSC08236.JPG'>
+    <box top='510' left='97' width='882' height='156'>
+      
+    </box>
+  </image>
+  <image file='faca_fio/facas_afiadas/DSC08247.JPG'>
+    <box top='471' left='59' width='703' height='216'>
+      
+    </box>
+  </image>
+  <image file='faca_fio/facas_afiadas/DSC08250.JPG'>
+    <box top='504' left='56' width='699' height='176'>
+      
+    </box>
+  </image>
+  <image file='faca_fio/facas_afiadas/DSC08252.JPG'>
+    <box top='504' left='565' width='743' height='175'>
+      
+    </box>
+  </image>
+  <image file='faca_fio/facas_afiadas/DSC08255.JPG'>
+    <box top='650' left='244' width='530' height='117'>
+      
+    </box>
+  </image>
+  <image file='faca_fio/facas_afiadas/DSC08273.JPG'>
+    <box top='245' left='432' width='784' height='136'>
+      
+    </box>
+  </image>
+  <image file='faca_fio/facas_afiadas/DSC08277.JPG'>
+    <box top='531' left='586' width='715' height='179'>
+      
+    </box>
+  </image>
+  <image file='faca_fio/facas_afiadas/DSC08291.JPG'>
+    <box top='611' left='623' width='565' height='154'>
+      
+    </box>
+  </image>
+  <image file='faca_fio/facas_afiadas/DSC08292.JPG'>
+    <box top='487' left='29' width='751' height='191'>
+      
+    </box>
+  </image>
+  <image file='faca_fio/facas_afiadas/DSC08295.JPG'>
+    <box top='638' left='414' width='891' height='196'>
+      
+    </box>
+  </image>
+  <image file='faca_fio/facas_afiadas/DSC08404.JPG'>
+    <box top='626' left='46' width='711' height='188'>
+      
+    </box>
+  </image>
+  <image file='faca_fio/facas_afiadas/DSC08465.JPG'>
+    <box top='633' left='201' width='625' height='201'>
+      
+    </box>
+  </image>
+  <image file='faca_fio/facas_afiadas/DSC08468.JPG'>
+    <box top='665' left='534' width='756' height='203'>
+      
+    </box>
+  </image>
+  <image file='faca_fio/facas_afiadas/DSC08470.JPG'>
+    <box top='725' left='875' width='419' height='128'>
+      
+    </box>
+  </image>
+  <image file='faca_fio/facas_afiadas/DSC08530.JPG'>
+    <box top='687' left='33' width='971' height='189'>
+      
+    </box>
+  </image>
+  <image file='faca_fio/facas_afiadas/DSC08534.JPG'>
+    <box top='601' left='437' width='897' height='164'>
+      
+    </box>
+  </image>
+  <image file='faca_fio/facas_afiadas/DSC08536.JPG'>
+    <box top='700' left='197' width='703' height='185'>
+      
+    </box>
+  </image>
+  <image file='faca_fio/facas_afiadas/DSC08538.JPG'>
+    <box top='577' left='543' width='739' height='183'>
+      
+    </box>
+  </image>
+  <image file='faca_fio/facas_afiadas/DSC08541.JPG'>
+    <box top='619' left='591' width='639' height='153'>
+      
+    </box>
+  </image>
+  <image file='faca_fio/facas_afiadas/DSC08658.JPG'>
+    <box top='571' left='597' width='702' height='176'>
+      
+    </box>
+  </image>
+  <image file='faca_fio/facas_afiadas/DSC08765.JPG'>
+    <box top='484' left='93' width='846' height='193'>
+      
+    </box>
+  </image>
+  <image file='faca_fio/facas_afiadas/DSC08887.JPG'>
+    <box top='543' left='555' width='720' height='185'>
+      
+    </box>
+  </image>
+  <image file='faca_fio/facas_afiadas/DSC08889.JPG'>
+    <box top='605' left='415' width='804' height='127'>
+      
+    </box>
+  </image>
+  <image file='faca_fio/facas_afiadas/DSC08893.JPG'>
+    <box top='559' left='533' width='759' height='210'>
+      
+    </box>
+  </image>
+  <image file='faca_fio/facas_afiadas/DSC08897.JPG'>
+    <box top='582' left='587' width='630' height='178'>
+     
+    </box>
+  </image>
+  <image file='faca_fio/facas_afiadas/DSC08899.JPG'>
+    <box top='471' left='226' width='1052' height='154'>
+      
+    </box>
+  </image>
+  <image file='faca_fio/facas_afiadas/DSC08901.JPG'>
+    <box top='537' left='62' width='620' height='207'>
+      
+    </box>
+  </image>
+  <image file='faca_fio/facas_afiadas/DSC08905.JPG'>
+    <box top='567' left='613' width='706' height='194'>
+      
+    </box>
+  </image>
+  <image file='faca_fio/facas_afiadas/DSC08906.JPG'>
+    <box top='446' left='584' width='706' height='191'>
+      
+    </box>
+  </image>
+  <image file='faca_fio/facas_afiadas/DSC08945.JPG'>
+    <box top='449' left='175' width='738' height='207'>
+      
+    </box>
+  </image>
+  <image file='faca_fio/facas_afiadas/DSC08949.JPG'>
+    <box top='278' left='669' width='727' height='194'>
+      
+    </box>
+  </image>
+  <image file='faca_fio/facas_afiadas/DSC08950.JPG'>
+    <box top='323' left='602' width='807' height='238'>
+     
+    </box>
+  </image>
+  <image file='faca_fio/facas_afiadas/DSC08953.JPG'>
+    <box top='348' left='570' width='729' height='166'>
+      
+    </box>
+  </image>
+  <image file='faca_fio/facas_afiadas/DSC08983.JPG'>
+    <box top='565' left='643' width='662' height='189'>
+      
+    </box>
+  </image>
+  <image file='faca_fio/facas_afiadas/DSC08985.JPG'>
+    <box top='484' left='61' width='780' height='140'>
+      
+    </box>
+  </image>
+  <image file='faca_fio/facas_afiadas/DSC09369.JPG'>
+    <box top='460' left='34' width='793' height='244'>
+      
+    </box>
+  </image>
+  <image file='faca_fio/facas_afiadas/DSC09371.JPG'>
+    <box top='586' left='27' width='711' height='191'>
+      
+    </box>
+  </image>
+  <image file='faca_fio/facas_afiadas/DSC09372.JPG'>
+    <box top='588' left='647' width='592' height='150'>
+     
+    </box>
+  </image>
+  <image file='faca_fio/facas_afiadas/DSC09557.JPG'>
+    <box top='332' left='114' width='768' height='166'>
+      
+    </box>
+  </image>
+  <image file='faca_fio/facas_afiadas/DSC09912.JPG'>
+    <box top='451' left='33' width='720' height='195'>
+      
+    </box>
+  </image>
+  <image file='faca_fio/facas_afiadas/DSCF4069.JPG'>
+    <box top='433' left='25' width='779' height='200'>
+      
+    </box>
+  </image>
+  <image file='faca_fio/facas_afiadas/DSCF4295.JPG'>
+    <box top='405' left='106' width='787' height='185'>
+      
+    </box>
+  </image>
+  <image file='faca_fio/facas_afiadas/DSCF4316.JPG'>
+    <box top='442' left='471' width='791' height='138'>
+      
+    </box>
+  </image>
+  <image file='faca_fio/facas_afiadas/DSCF4317.JPG'>
+    <box top='392' left='133' width='672' height='175'>
+      
+    </box>
+  </image>
+  <image file='faca_fio/facas_afiadas/DSCF4318.JPG'>
+    <box top='392' left='258' width='602' height='152'>
+      
+    </box>
+  </image>
+  <image file='faca_fio/facas_afiadas/DSCF4388.JPG'>
+    <box top='451' left='100' width='751' height='218'>
+      
+    </box>
+  </image>
+  <image file='faca_fio/facas_afiadas/DSCF4389.JPG'>
+    <box top='426' left='27' width='894' height='196'>
+      
+    </box>
+  </image>
+  <image file='faca_fio/facas_afiadas/DSCF4403.JPG'>
+    <box top='516' left='603' width='787' height='209'>
+      
+    </box>
+  </image>
+  <image file='faca_fio/facas_afiadas/DSCF4466.JPG'>
+    <box top='501' left='716' width='623' height='211'>
+      
+    </box>
+  </image>
+  <image file='faca_fio/facas_afiadas/DSCF4467.JPG'>
+    <box top='362' left='115' width='898' height='207'>
+      
+    </box>
+  </image>
+  <image file='faca_fio/facas_afiadas/DSCF4523.JPG'>
+    <box top='591' left='122' width='694' height='180'>
+      
+    </box>
+  </image>
+  <image file='faca_fio/facas_afiadas/DSCF4524.JPG'>
+    <box top='544' left='132' width='698' height='173'>
+      
+    </box>
+  </image>
+  <image file='faca_fio/facas_afiadas/DSCF4527.JPG'>
+    <box top='283' left='114' width='748' height='207'>
+      
+    </box>
+    <box top='528' left='96' width='741' height='212'>
+      
+    </box>
+  </image>
+  <image file='faca_fio/facas_afiadas/DSCF4528.JPG'>
+    <box top='182' left='135' width='752' height='187'>
+      
+    </box>
+    <box top='406' left='117' width='727' height='208'>
+      
+    </box>
+  </image>
+  <image file='faca_fio/facas_afiadas/DSCF4543.JPG'>
+    <box top='490' left='255' width='503' height='130'>
+      
+    </box>
+  </image>
+  <image file='faca_fio/facas_afiadas/DSCF4544.JPG'>
+    <box top='498' left='267' width='492' height='130'>
+      
+    </box>
+  </image>
+  <image file='faca_fio/facas_afiadas/DSCF4565.JPG'>
+    <box top='463' left='117' width='599' height='123'>
+     
+    </box>
+  </image>
+  <image file='faca_fio/facas_afiadas/DSCN1090.JPG'>
+    <box top='271' left='66' width='467' height='110'>
+      
+    </box>
+  </image>
+  <image file='faca_fio/facas_afiadas/DSCN1091.JPG'>
+    <box top='240' left='110' width='409' height='101'>
+      
+    </box>
+  </image>
+  <image file='faca_fio/facas_afiadas/DSCN1096.JPG'>
+    <box top='247' left='292' width='414' height='94'>
+      
+    </box>
+  </image>
+  <image file='faca_fio/facas_afiadas/DSC_0036.JPG'>
+    <box top='506' left='680' width='678' height='171'>
+     
+    </box>
+  </image>
+  <image file='faca_fio/facas_afiadas/DSC_0037.JPG'>
+    <box top='438' left='181' width='702' height='180'>
+     
+    </box>
+  </image>
+  <image file='faca_fio/facas_afiadas/DSC_0046.JPG'>
+    <box top='483' left='407' width='417' height='125'>
+      
+    </box>
+  </image>
+  <image file='faca_fio/facas_afiadas/DSC_1420.JPG'>
+    <box top='174' left='251' width='538' height='98'>
+      
+    </box>
+  </image>
+  <image file='faca_fio/facas_afiadas/DSC_5141.JPG'>
+    <box top='366' left='486' width='727' height='193'>
+      
+    </box>
+  </image>
+  <image file='faca_fio/facas_afiadas/DSC_5149.JPG'>
+    <box top='416' left='582' width='630' height='168'>
+      
+    </box>
+  </image>
+  <image file='faca_fio/facas_afiadas/DSC_5484.JPG'>
+    <box top='199' left='313' width='362' height='93'>
+      
+    </box>
+  </image>
+  <image file='faca_fio/facas_afiadas/DSC_5490.JPG'>
+    <box top='201' left='342' width='309' height='86'>
+      
+    </box>
+  </image>
+  <image file='faca_fio/facas_afiadas/IMG_0583.JPG'>
+    <box top='326' left='308' width='414' height='84'>
+      
+    </box>
+  </image>
+  <image file='faca_fio/facas_afiadas/IMG_0631.JPG'>
+    <box top='221' left='38' width='404' height='120'>
+      
+    </box>
+  </image>
+  <image file='faca_fio/facas_afiadas/IMG_1255.JPG'>
+    <box top='236' left='382' width='369' height='106'>
+     
+    </box>
+  </image>
+  <image file='faca_fio/facas_afiadas/IMG_1256.JPG'>
+    <box top='363' left='315' width='295' height='82'>
+      
+    </box>
+  </image>
+  <image file='faca_fio/facas_afiadas/IMG_1257.JPG'>
+    <box top='196' left='86' width='401' height='106'>
+      
+    </box>
+  </image>
+  <image file='faca_fio/facas_afiadas/IMG_1453.JPG'>
+    <box top='210' left='155' width='563' height='117'>
+      
+    </box>
+  </image>
+  <image file='faca_fio/facas_afiadas/IMG_1581.JPG'>
+    <box top='308' left='29' width='459' height='124'>
+      
+    </box>
+  </image>
+  <image file='faca_fio/facas_afiadas/IMG_2371.JPG'>
+    <box top='208' left='424' width='316' height='93'>
+      
+    </box>
+  </image>
+  <image file='faca_fio/facas_afiadas/IMG_2372.JPG'>
+    <box top='249' left='359' width='349' height='81'>
+      
+    </box>
+    <box top='364' left='314' width='462' height='114'>
+      
+    </box>
+  </image>
+  <image file='faca_fio/facas_afiadas/IMG_2375.JPG'>
+    <box top='269' left='53' width='409' height='115'>
+      
+    </box>
+  </image>
+  <image file='faca_fio/facas_afiadas/IMG_2377.JPG'>
+    <box top='242' left='24' width='402' height='125'>
+      
+    </box>
+  </image>
+  <image file='faca_fio/facas_afiadas/IMG_2378.JPG'>
+    <box top='242' left='56' width='424' height='109'>
+      
+    </box>
+  </image>
+  <image file='faca_fio/facas_afiadas/IMG_2379.JPG'>
+    <box top='97' left='403' width='300' height='71'>
+      
+    </box>
+  </image>
+  <image file='faca_fio/facas_afiadas/IMG_2380.JPG'>
+    <box top='255' left='92' width='343' height='111'>
+      
+    </box>
+  </image>
+  <image file='faca_fio/facas_afiadas/IMG_2386.JPG'>
+    <box top='248' left='20' width='463' height='113'>
+      
+    </box>
+  </image>
+  <image file='faca_fio/facas_afiadas/TODAY004.jpg'>
+    <box top='252' left='116' width='373' height='97'>
+      
+    </box>
+  </image>
+</images>
+</dataset>

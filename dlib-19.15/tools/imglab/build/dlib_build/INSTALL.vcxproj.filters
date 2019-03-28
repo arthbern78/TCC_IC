@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="D:\FATEC\CURSOS UDEMY\RECONHECIMENTO FACIAL\dlib-19.10\tools\imglab\build\CMakeFiles\ed70bffd7b1b2495edfbfb875b0aabee\INSTALL_force.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{9CE39BAC-BD3B-364F-A401-A7B7022AA9BE}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

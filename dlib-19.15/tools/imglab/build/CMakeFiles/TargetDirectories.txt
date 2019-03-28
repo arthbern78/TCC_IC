@@ -1,0 +1,7 @@
+D:/FATEC/CURSOS UDEMY/RECONHECIMENTO FACIAL/dlib-19.10/tools/imglab/build/CMakeFiles/imglab.dir
+D:/FATEC/CURSOS UDEMY/RECONHECIMENTO FACIAL/dlib-19.10/tools/imglab/build/CMakeFiles/INSTALL.dir
+D:/FATEC/CURSOS UDEMY/RECONHECIMENTO FACIAL/dlib-19.10/tools/imglab/build/CMakeFiles/ALL_BUILD.dir
+D:/FATEC/CURSOS UDEMY/RECONHECIMENTO FACIAL/dlib-19.10/tools/imglab/build/CMakeFiles/ZERO_CHECK.dir
+D:/FATEC/CURSOS UDEMY/RECONHECIMENTO FACIAL/dlib-19.10/tools/imglab/build/dlib_build/CMakeFiles/dlib.dir
+D:/FATEC/CURSOS UDEMY/RECONHECIMENTO FACIAL/dlib-19.10/tools/imglab/build/dlib_build/CMakeFiles/INSTALL.dir
+D:/FATEC/CURSOS UDEMY/RECONHECIMENTO FACIAL/dlib-19.10/tools/imglab/build/dlib_build/CMakeFiles/ALL_BUILD.dir

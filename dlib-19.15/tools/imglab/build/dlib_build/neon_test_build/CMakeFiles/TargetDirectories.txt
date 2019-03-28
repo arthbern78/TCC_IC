@@ -1,0 +1,3 @@
+D:/FATEC/CURSOS UDEMY/RECONHECIMENTO FACIAL/dlib-19.10/tools/imglab/build/dlib_build/neon_test_build/CMakeFiles/neon_test.dir
+D:/FATEC/CURSOS UDEMY/RECONHECIMENTO FACIAL/dlib-19.10/tools/imglab/build/dlib_build/neon_test_build/CMakeFiles/ALL_BUILD.dir
+D:/FATEC/CURSOS UDEMY/RECONHECIMENTO FACIAL/dlib-19.10/tools/imglab/build/dlib_build/neon_test_build/CMakeFiles/ZERO_CHECK.dir
